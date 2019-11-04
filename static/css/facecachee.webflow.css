@@ -414,7 +414,7 @@ transform: rotate(-450deg);
 }
 .image-2 {
   position: absolute;
-  right: 123px;
+  right: 50px;
   bottom: -63px;
 }
 
@@ -1001,21 +1001,9 @@ html.w-mod-js *[data-ix="appearload-delay-kred"] {
   }
   .image-2 {
     right: -57px;
-    bottom: -80px;
+    bottom: -100px;
   }
-  .image-2.immmo {
-    right: 0px;
-    width: 200px;
-  }
-  .image-2.rembourser {
-    right: -70px;
-    width: 276px;
-  }
-  .image-2.newcredits {
-    right: -70px;
-    bottom: -102px;
-    width: 269px;
-  }
+
   .paragraph {
     padding-right: 0px;
   }
