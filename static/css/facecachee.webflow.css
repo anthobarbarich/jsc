@@ -70,6 +70,21 @@ font-size: 1em;}
   text-transform: uppercase;
 }
 
+.headertxt2 {
+  width: 90%;
+  margin-top: 23px;
+  -webkit-transform: none;
+  -ms-transform: none;
+  transform: none;
+  font-family: 'D dincondensed', sans-serif;
+  color: #fff;
+  font-size: 40px;
+  line-height: 46px;
+  font-weight: 400;
+  text-transform: uppercase;
+
+}
+
 .headertxt.cta {
   font-size: 23px;
 }
@@ -944,6 +959,22 @@ html.w-mod-js *[data-ix="appearload-delay-kred"] {
     font-size: 26px;
     line-height: 33px;
   }
+	  .headertxt2 {
+    font-size: 26px;
+    line-height: 33px;
+		  margin-bottom: 26px;
+  }
+	.imgbottom {
+
+    display: none;
+}
+	.column-5 {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+    padding: 46px;
+    text-align: center;
+}
   .logotxt {
     margin-left: 51px;
     font-size: 19px;
