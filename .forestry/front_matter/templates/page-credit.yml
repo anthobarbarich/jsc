@@ -16,6 +16,11 @@ fields:
     schema:
       format: markdown
   label: Texte header
+- name: kredpic
+  type: file
+  config:
+    maxSize: 250
+  label: Image Kred
 - name: icon
   type: file
   config:
