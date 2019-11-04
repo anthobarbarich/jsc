@@ -1,4 +1,68 @@
 ---
 label: Page Crédit
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre de la page
+- name: headertext
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Titre header
+- name: icon
+  type: file
+  config:
+    maxSize: 250
+  label: Icone Intro
+- name: introtext
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Texte intro page
+- name: blockinfo
+  type: field_group_list
+  fields:
+  - name: titre
+    type: text
+    config:
+      required: false
+    label: Titre
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+  - name: infotext
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Texte "clair"
+  - name: darktext
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Texte "Dark"
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Bloc Info
