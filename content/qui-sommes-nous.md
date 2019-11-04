@@ -1,7 +1,7 @@
 ---
 type: info
 title: 'Qui Sommes-Nous ? '
-headertext: Les Associations Partenaires
+headertext: Les partenaires de la Journée sans Crédit
 linkblock: []
 
 ---
