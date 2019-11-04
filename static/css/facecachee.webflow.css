@@ -400,6 +400,15 @@ font-size: 1em;}
 	flex-wrap: wrap;
 }
 
+.colblocks:nth-child(odd) {
+    flex-direction: row-reverse;
+}
+
+.colblocks:nth-child(odd) svg {
+    flex-direction: row-reverse;
+transform: rotate(-450deg);
+}
+
 .block-50 {
 	width: 48%;
 }
@@ -962,7 +971,10 @@ html.w-mod-js *[data-ix="appearload-delay-kred"] {
     -ms-transform: none;
     transform: none;
   }
-	
+	.colblocks:nth-child(odd) {
+    flex-direction: row;
+}
+
 	.block-50 {
 	width: 100%;
 }
