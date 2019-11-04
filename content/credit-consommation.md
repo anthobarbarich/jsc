@@ -1,5 +1,5 @@
 +++
-headertext = "ALORS COMME ÇA TU VEUX CONTRACTER UN C**RÉDIT À LA CONSOMMATION**?"
+headertext = "ALORS COMME ÇA TU VEUX CONTRACTER UN **CRÉDIT À LA CONSOMMATION?**"
 icon = "/uploads/card.svg"
 introtext = "Le crédit à la consommation se présente sous plusieurs formes. A chaque projet son crédit !\n\nUne folle envie de vacances? Le lave-linge qui rend l'âme? Il y en a pour toutes les envies !"
 kredpic = "/uploads/newcredits.svg"
