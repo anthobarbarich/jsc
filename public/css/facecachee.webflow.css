@@ -17,7 +17,12 @@ p {
 a {
   text-decoration: none;
 }
+strong {
+color: #ea4e57;
+	}
 
+.dark p {color: white;
+font-size: 1em;}
 .hero {
   position: relative;
   height: 90%;
@@ -390,8 +395,23 @@ a {
 
 .colblocks {
   margin-bottom: 107px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
 }
 
+.colblocks:nth-child(odd) {
+    flex-direction: row-reverse;
+}
+
+.colblocks:nth-child(odd) svg {
+    flex-direction: row-reverse;
+transform: rotate(-450deg);
+}
+
+.block-50 {
+	width: 48%;
+}
 .image-2 {
   position: absolute;
   right: 123px;
@@ -430,6 +450,10 @@ a {
   bottom: 0px;
   max-width: 100%;
   background-color: #000;
+
+    max-width: 99%;
+    background-color: #fff;
+    padding-left: 1%;
 }
 
 .colrightinfo {
@@ -947,6 +971,13 @@ html.w-mod-js *[data-ix="appearload-delay-kred"] {
     -ms-transform: none;
     transform: none;
   }
+	.colblocks:nth-child(odd) {
+    flex-direction: row;
+}
+
+	.block-50 {
+	width: 100%;
+}
   .centercontain.pagez {
     top: 176px;
   }

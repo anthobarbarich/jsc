@@ -33,11 +33,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </head>
 <body class="body white">
   <div class="hero pages">
-    <div class="kredmove"><!--<img src="{{.Params.kredpic}}" width="441" alt="" class="kreddark immmo">--><img src="{{.Params.kredpic}}" width="700" alt="" class="image-2" data-ix="appearload-delay-kred"></div>
+    <div class="kredmove"><!--<img src="{{.Params.kredpic}}" width="441" alt="" class="kreddark immmo">--><img src="{{.Params.kredpic}}" width="700" alt="" class="image-2"></div>
     <div class="centercontain pagez w-container">
       <div class="w-row">
         <div class="w-col w-col-6">
-          <div class="headertxt" data-ix="appearload-delay02">{{.Params.headertext | markdownify}}</div>
+          <div class="headertxt">{{.Params.headertext | markdownify}}</div>
         </div>
 
       </div>
@@ -47,7 +47,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 	  {{ partial "nav.html" }}
   </div>
-  <div class="_01" data-ix="appearload-body">
+  <div class="_01">
     <div class="w-container">
       <div class="w-row"><br><br><br>
         <div class="w-col w-col-7"><img src="{{.Params.icon}}" width="100" alt="" class="icon">
@@ -57,7 +57,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 		
 		{{ range .Params.blockinfo }}
-      <div class="colblocks" data-ix="appearscroll">
+      <div class="colblocks">
         <div class="block-50">
           <h2 class="headingcorps">{{.titre}}</h2>
           <p class="paragraph">{{.infotext | markdownify}}</h4></h4></p>
