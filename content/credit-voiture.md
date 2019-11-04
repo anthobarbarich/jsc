@@ -1,4 +1,5 @@
 +++
+type: default
 headertext = "ALORS COMME ÇA, TU VEUX PRENDRE UN **CRÉDIT VOITURE?**"
 icon = "/uploads/car.svg"
 introtext = "Le crédit voiture, sous toutes ses formes et avec toutes ses conditions, te permettra de te procurer la voiture de tes rêves. Découvre les merveilles de ce prêt accessible à tous."

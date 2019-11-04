@@ -1,0 +1,72 @@
+  <div class="cta">
+    <div class="container-2 w-container">
+      <div class="columns-2 w-row">
+        <div class="w-col w-col-8">
+          <div class="ctatext">Avant de conclure un crédit, il est indispensable de bien t&#x27;informer ! </div>
+        </div>
+        <div class="rightcolcta w-col w-col-4"><a href="info.html" class="btncta w-button">Toutes les infos sur le crédit</a></div>
+      </div>
+      <div class="rowfoot2 w-row">
+        <div class="colfoot w-col w-col-4">
+          <p class="pfooter">Une action de la Plateforme Journée Sans Crédit + Logo Wallonie / Subsidiant<br></p>
+        </div>
+        <div class="w-col w-col-4"></div>
+        <div class="lastcol w-col w-col-4">
+          <p class="pfooter">{{ now.Format "2006"}} - Tous droits réservés<br></p><a href="#top" class="linktop">HAUT DU SITE ↑</a></div>
+      </div>
+    </div>
+  </div>
+  <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script src="/js/webflow.js" type="text/javascript"></script>
+<script>
+$(document).ready(function() {
+  (function() {
+    var showChar = 400;
+    var ellipsestext = "...";
+
+    $(".truncate").each(function() {
+      var content = $(this).html();
+      if (content.length > showChar) {
+        var c = content.substr(0, showChar);
+        var h = content;
+        var html =
+          '<div class="truncate-text" style="display:block; color:white;">' +
+          c +
+          '<span class="moreellipses">' +
+          ellipsestext +
+          '&nbsp;&nbsp;<br><br><a style="color:white;" href="" class="moreless more">En savoir plus</a></span></span></div><div class="truncate-text" style="display:none">' +
+          h +
+          '<a style="color:white;" href="" class="moreless less">Réduire</a></span></div>';
+
+        $(this).html(html);
+      }
+    });
+
+    $(".moreless").click(function() {
+      var thisEl = $(this);
+      var cT = thisEl.closest(".truncate-text");
+      var tX = ".truncate-text";
+
+      if (thisEl.hasClass("less")) {
+        cT.prev(tX).toggle();
+        cT.slideToggle();
+      } else {
+        cT.toggle();
+        cT.next(tX).fadeToggle();
+      }
+      return false;
+    });
+    /* end iffe */
+  })();
+
+  /* end ready */
+});
+
+
+</script>
+  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
+  <!--  Google Tag Manager (noscript)  -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M6B3N7D" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!--  End Google Tag Manager (noscript)  -->
+</body>
+</html>

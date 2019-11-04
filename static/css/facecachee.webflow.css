@@ -17,7 +17,12 @@ p {
 a {
   text-decoration: none;
 }
+strong {
+color: #ea4e57;
+	}
 
+.dark p {color: white;
+font-size: 1em;}
 .hero {
   position: relative;
   height: 90%;
