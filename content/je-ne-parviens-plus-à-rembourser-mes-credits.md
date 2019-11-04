@@ -1,7 +1,7 @@
 +++
 headertext = "Tu ne parviens plus à rembourser tes crédits ?"
 icon = ""
-introtext = "Les fins de mois sont difficiles. Tu n’arrives plus à joindre les deux bouts et à rembourser tes crédits en cours ? Voici quelques conseils pour t’en sortir :"
+introtext = "Les fins de mois sont difficiles. Tu n’arrives plus à joindre les deux bouts et à rembourser tes crédits en cours ? **Voici quelques conseils pour t’en sortir :**"
 kredpic = "/uploads/rembourser2.svg"
 title = "Je ne parviens plus à rembourser mes crédits"
 [[blockinfo]]
