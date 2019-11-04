@@ -38,7 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="w-row">
         <div class="w-col w-col-7">
 <!--          <div class="headertxt">{{.Params.headertext | markdownify}}</div>-->
-			<div class="headertxt">{{.Params.headertext}}</div>
+			<div class="headertxt">retrouve ici toutes les ressources dont tu as besoin pour <span class="red">tout savoir sur le crédit </span>!</div>
         </div>
 
       </div>
@@ -51,18 +51,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <div class="w-container">
   <div class="_01 ressource" data-ix="appearload-body">
-    <div class="w-container">{{ range .Params.linkblock }}
-      <a href="{{.link}}" class="linkressources w-inline-block">
+    <div class="w-container">
+      <a href="#" class="linkressources w-inline-block">
         <div class="colliens w-row">
-          <div class="column-7 w-col w-col-4"><img src="{{.image}}" sizes="100vw" alt=""></div>
+          <div class="column-7 w-col w-col-4"><img src="/images/logotest.jpg" sizes="100vw" alt=""></div>
           <div class="column-6 w-col w-col-8">
-            <h3 class="headingtinro ressources">{{.name}}</h3>
-            <p class="paragraph">{{.description}}</p>
-            <div class="linkinliens">Accéder ici</div>
+            <h3 class="headingtinro ressources">nos documents officiels</h3>
+            <p class="paragraph">Accédez à nos brochures, infographies interactives et autres documents pour tout savoir sur les différents types de crédits, les infrastructures d&#x27;accompagnement et la médiation de dettes;</p>
+            <div class="linkinliens">télécharger</div>
           </div>
         </div>
-      </a>{{end}}
-	  </div>
+      </a>
+      <a href="http://www.journeesanscredit.be" class="linkressources w-inline-block">
+        <div class="colliens w-row">
+          <div class="column-8 w-col w-col-4"><img src="/images/jsc.png" width="290" alt=""></div>
+          <div class="column-6 w-col w-col-8">
+            <h3 class="headingtinro ressources">journée sans crédit</h3>
+            <p class="paragraph">La journée sans crédit est une plateforme organisée par 31 associations francophones et néerlandophones, elle a pour objectifs de sensibiliser les consommateurs aux dangers du crédit facile et de formuler des recommandations aux pouvoirs publics pour améliorer la protection des consommateurs les plus fragilisés.</p>
+            <div class="linkinliens">aller sur le site officiel</div>
+          </div>
+        </div>
+      </a><a href="#" class="linkressources w-inline-block"></a><a href="#" class="linkressources w-inline-block"></a><a href="#" class="linkressources w-inline-block"></a></div>
   </div>
 		
 		
