@@ -39,7 +39,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="w-col w-col-6">
           <div class="headertxt" data-ix="appearload-delay02">{{.Params.headertext | markdownify}}</div>
         </div>
-        <div class="column-2 w-col w-col-6"></div>
+
       </div>
     </div>
     <div class="wrappercol">
@@ -49,21 +49,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </div>
   <div class="_01" data-ix="appearload-body">
     <div class="w-container">
-      <div class="colblocks w-row">
+      <div class="w-row"><br><br><br>
         <div class="w-col w-col-7"><img src="{{.Params.icon}}" width="100" alt="" class="icon">
-          <h2 class="headingtinro">{{.Params.introtext}}</h2>
+          <h2 class="headingtinro">{{.Params.introtext}}</h2><br><br><br>
 		  </div>
       </div>
 		
 		
 		{{ range .Params.blockinfo }}
-      <div class="colblocks w-row" data-ix="appearscroll">
-        <div class="w-col w-col-6">
+      <div class="colblocks" data-ix="appearscroll">
+        <div class="block-50">
           <h2 class="headingcorps">{{.titre}}</h2>
           <p class="paragraph">{{.infotext | markdownify}}</h4></h4></p>
           <div class="dark truncate" style="color:white;">{{.darktext | markdownify}}</div>
         </div>
-        <div class="colrightinfo w-col w-col-6">
+        <div class="block-50">
           <div class="imgwrapper"><img src="/images/contourwhiteright.svg" width="560" alt="" class="contourwhite"><img src="{{.image}}" width="535" alt="" class="imginfo"></div>
         </div>
       </div>{{end}}
