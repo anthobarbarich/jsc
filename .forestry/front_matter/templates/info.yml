@@ -2,6 +2,11 @@
 label: Info
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre
 - name: headertext
   type: text
   config:
@@ -39,5 +44,11 @@ fields:
     max: 
     labelField: 
   label: Bloc Liens
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+  default: info
 pages:
 - content/info.md
