@@ -1,4 +1,41 @@
 ---
 label: Info
 hide_body: false
-fields: []
+fields:
+- name: headertext
+  type: text
+  config:
+    required: false
+  label: Texte Header
+- name: linkblock
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Nom
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Description
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Lien
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Bloc Liens
