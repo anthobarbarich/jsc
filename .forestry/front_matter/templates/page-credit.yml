@@ -72,5 +72,6 @@ fields:
     labelField: 
   label: Bloc Info
 pages:
+- content/un-ou-plusieurs-crédits.md
 - content/credit-consommation.md
 - content/credit-voiture.md
