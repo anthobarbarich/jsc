@@ -15,7 +15,7 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-  label: Titre header
+  label: Texte header
 - name: icon
   type: file
   config:
