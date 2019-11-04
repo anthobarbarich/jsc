@@ -1,4 +1,4 @@
-baseURL = "https://lafacecacheeducredit.be"
+baseURL = "https://lafacecacheeducredit.netlify.com/"
 languageCode = "fr-be"
 title = "La Face Cachée du Crédit"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
