@@ -1,5 +1,5 @@
 +++
-headertext = "J'AI DÉJÀ **UN OU PLUSIEURS CRÉDITS** ET **JE SOUHAITE EN CONTRACTER DE NOUVEAUX**"
+headertext = "J'AI DÉJÀ **UN OU PLUSIEURS CRÉDITS** ET JE SOUHAITE EN CONTRACTER **DE NOUVEAUX**"
 icon = ""
 introtext = ""
 kredpic = "/uploads/consonew.svg"
