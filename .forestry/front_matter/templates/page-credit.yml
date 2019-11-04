@@ -71,3 +71,5 @@ fields:
     max: 
     labelField: 
   label: Bloc Info
+pages:
+- content/crédit-voiture.md
