@@ -39,3 +39,5 @@ fields:
     max: 
     labelField: 
   label: Bloc Liens
+pages:
+- content/info.md
