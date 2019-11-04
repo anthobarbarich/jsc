@@ -51,4 +51,5 @@ fields:
   label: type
   default: info
 pages:
+- content/qui-sommes-nous.md
 - content/info.md
