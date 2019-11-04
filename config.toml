@@ -1,3 +1,8 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://lafacecacheeducredit.be"
+languageCode = "fr-be"
+title = "La Face Cachée du Crédit"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+
+[params]
+  author = "J"
+  description = "Le crédit, ça comporte aussi des risques. Avec Kred, découvre la Face Cachée du Crédit."
