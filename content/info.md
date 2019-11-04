@@ -9,5 +9,6 @@ linkblock:
     pour tout savoir sur les différents types de crédits, les infrastructures d'accompagnement
     et la médiation de dettes;
   link: ''
+title: Nos supports d’information
 
 ---
