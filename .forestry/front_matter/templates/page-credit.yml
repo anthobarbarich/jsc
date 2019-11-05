@@ -72,8 +72,8 @@ fields:
     labelField: 
   label: Bloc Info
 pages:
+- content/un-ou-plusieurs-crédits.md
 - content/credit-consommation.md
 - content/credit-voiture.md
 - content/je-ne-parviens-plus-à-rembourser-mes-credits.md
 - content/nouveaux-credits.md
-- content/un-ou-plusieurs-crédits.md
