@@ -8,7 +8,7 @@ title = "Crédit Voiture"
 darktext = ""
 image = ""
 infotext = ""
-titre = "1.9.\tQue vas-tu réellement payer pour ta voiture ?"
+titre = "Que vas-tu réellement payer pour ta voiture ?"
 [[blockinfo]]
 darktext = "Finalement, cela te coûtera **plusieurs centaines d’euros par mois** .\n\nLe coût exact dépendra de la voiture en elle-même et de l’utilisation que tu en feras.\n\nPour en savoir plus sur le coût clique ici"
 image = ""
