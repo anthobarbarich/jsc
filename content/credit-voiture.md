@@ -7,7 +7,7 @@ title = "Crédit Voiture"
 [[blockinfo]]
 darktext = "Finalement, cela te coûtera **plusieurs centaines d’euros par mois** .\n\nLe coût exact dépendra de la voiture en elle-même et de l’utilisation que tu en feras.\n\nPour en savoir plus sur le coût clique ici"
 image = ""
-infotext = "Avant de prendre une décision, la première question est d’évaluer le coût d’une voiture à l’achat et à l’utilisation.\n\nUne voiture coûte cher. Vérifie avant tout que tu sauras en assumer les frais : taxe de mise en circulation, taxe de circulation annuelle, assurances, entretiens, réparations, essence, frais de parking, etc. \n\n***"
+infotext = "Avant de prendre une décision, la première question est d’évaluer le coût d’une voiture à l’achat et à l’utilisation.\n\nUne voiture coûte cher. Vérifie avant tout que tu sauras en assumer les frais : taxe de mise en circulation, taxe de circulation annuelle, assurances, entretiens, réparations, essence, frais de parking, etc."
 titre = "AVANT DE PRENDRE UNE DECISION"
 [[blockinfo]]
 darktext = "La face cachée\n\nUne voiture coûte cher. Dans ton budget, il ne faut pas oublier qu’en plus du remboursement du crédit,  tu devras payer les taxes, les assurances, les entretiens, les réparations, l’essence, les frais de parking, etc. \n\nPour en savoir plus sur le coût d’une voiture, clique ici"
