@@ -40,7 +40,7 @@ image = "/uploads/Distrib.jpg"
 infotext = "Que dit la pub ?\n\n\"_Nul besoin de te déplacer jusqu'à la banque, le concessionnaire se chargera d'établir avec toi le contrat de crédit voiture qu'il te faut, et ce pour pas 1€ de plus !  \n‍  \nLe fait d'emprunter chez le concessionnaire permet un gain de temps considérable, et le tout souvent avec un taux à 0%_\"."
 titre = "UN CRÉDIT DE SON SALON, C'EST POSSIBLE?"
 [[blockinfo]]
-darktext = ""
+darktext = "**Attention au coût de l’assurance ou des autres produits qu’on va te proposer !!!**\n\nBien souvent le concessionnaire de voitures ou le banquier voudra te vendre une assurance solde restant dû ; une assurance auto ; une assurance assistance, etc.\n\n**Hormis pour l’assurance responsabilité civile  (pour ton véhicule), ces autres assurances ne sont pas obligatoires.** Et ces produits sont souvent beaucoup plus chers quand on les prend chez le concessionnaire ou chez le prêteur. \n\nSache que **tu peux toujours choisir de te faire assurer ailleurs auprès d’une compagnie d’assurance ou d’un courtier d’assurance.**\n\n> Il ne faut donc souscrire que les assurances qui t’intéressent vraiment et dont tu as besoin. Tu pourras choisir le meilleur prix si tu compares les assurances à plusieurs endroits. \n\nPour en savoir plus sur les assurances, clique[ ici.](https://www.wikifin.be/fr/thematiques/assurer/questions-cle/lassurance)"
 image = ""
 infotext = ""
 titre = "Que vas-tu réellement payer pour ta voiture ?"
