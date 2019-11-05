@@ -5,6 +5,11 @@ introtext = "Il existe différents types de crédits et offres pour te procurer 
 kredpic = "/uploads/kredcar.svg"
 title = "Crédit Voiture"
 [[blockinfo]]
+darktext = ""
+image = ""
+infotext = "* Premier conseil : Va sur internet pour avoir une idée du taux que tu pourrais obtenir. \n\n\n* Après vérification, rends-toi chez un concessionnaire. \n* Avant de parler de crédit, négocie le prix de la voiture et les conditions de reprise de ton ancienne voiture. \n\n\n* Ensuite, demande-lui une offre pour un crédit et n’hésite pas à négocier en faisant valoir les différents taux que tu peux obtenir à d’autres endroits (banque ou concessionnaire). \n\n\n* Compare ensuite toutes les offres obtenues en prenant en compte du TAEG , du montant à emprunter, de la durée du contrat et du coût des assurances que l’on te proposera.\n* Lorsque tu auras pris ta décision, n’oublie surtout pas de demander au concessionnaire d’indiquer sur le bon de commande « _sous réserve d’acceptation d’un crédit »_ ou encore « _sous réserve de rétractation dans un délai de 14 jours à dater de la signature du présent bon de commande_ ». \n\n  Si pour une quelconque raison tu changes d’avis ou n’obtiens pas le crédit, l’achat de la voiture pourra être annulé sans frais. \n\n> **Prends ton temps** pour comparer les offres et ne te précipite pas. Les vendeurs sont formés pour vendre. Certains n’hésiteront donc pas à essayer de te faire signer le contrat le plus rapidement possible. Mais **tu es le client et tu peux imposer ton propre rythme !**"
+titre = "Quelques conseils pour obtenir le meilleur crédit voiture"
+[[blockinfo]]
 darktext = "Finalement, cela te coûtera **plusieurs centaines d’euros par mois** . \n\nLe coût exact dépendra de la voiture en elle-même et de l’utilisation que tu en feras."
 image = ""
 infotext = "Avant de prendre une décision, la première question est d’évaluer le coût d’une voiture à l’achat et à l’utilisation.\n\nUne voiture coûte cher. Vérifie avant tout que tu sauras en assumer les frais : taxe de mise en circulation, taxe de circulation annuelle, assurances, entretiens, réparations, essence, frais de parking, etc. \n\n***"
