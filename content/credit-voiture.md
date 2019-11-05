@@ -5,30 +5,25 @@ introtext = "Il existe différents types de crédits et offres pour te procurer 
 kredpic = "/uploads/kredcar.svg"
 title = "Crédit Voiture"
 [[blockinfo]]
-darktext = ""
-image = ""
-infotext = ""
-titre = "Est-ce que tu peux faire marche arrière ? "
-[[blockinfo]]
 darktext = "La face cachée\n\n**Gratuit ? Pas tant que ça … Comment un TAEG de 0 % devient plus cher qu’un TAEG de 2 % ?** \n\nTon concessionnaire pourrait te proposer un TAEG de 0%, mais cette option pourrait être, malgré tout, moins intéressante qu’un TAEG plus élevé que tu pourrais obtenir autre part. \n\n**Pourquoi ?** \n\nEn fait, le concessionnaire va te proposer un taux à O %, mais il risque de reprendra ta voiture actuelle sans t’offrir des réductions, ou il ne te proposera pas d’options supplémentaires lors de l’achat de ta nouvelle voiture. \n\nEn revanche, si tu vas chez le concessionnaire uniquement pour l’achat, et que tu signes ton crédit autre part (avec un TAEG plus élevé), le concessionnaire t’offrira souvent davantage de remises sur le prix de ta nouvelle voiture et tu devras donc emprunter moins. \n\nAu final, tu pourras alors y gagner."
 image = ""
 infotext = "\nLe concessionnaire te permet d’acheter ta voiture avec un crédit à 0%. Tu ne payes, par conséquent, que le prix du véhicule. \n\nMais, s’il te délivre ce « cadeau », il compense, bien entendu, cette perte financière autre part."
-titre = "Un crédit à 0 % ?  "
+titre = "UN CREDIT A 0 % ?  "
 [[blockinfo]]
 darktext = "**Le TAEG c’est quoi ?**\n\nLe TAEG (Taux annuel effectif global) est un taux d’intérêt (%) qui est calculé selon une manière déterminée par la loi. Le TAEG est calculé à partir de tous les frais liés au crédit : intérêts mensuels et frais. Il prend donc en compte tout ce qui coûte de l’argent lorsque tu contractes un crédit. \n\nLe TAEG est donc un bon indicateur pour comparer le coût des crédits.\n\n**Attention à la durée du crédit** \n\n**La durée des prêts que l’on te propose pour une voiture varie en général de 2 à 5 ans.** \n\nLa durée doit être réfléchie en fonction de ta situation personnelle ainsi que de l’état général de la voiture que tu désires acheter. \n\nPar exemple, souscrire un crédit d’une durée de 5 ans pour acquérir une vieille voiture d’occasion peut présenter un risque financier important si la voiture doit être remplacée avant la fin de ton prêt. \n\nIl faut savoir aussi que plus le crédit est long plus il est cher !\n\n**_Exemple_**\n\nPour un crédit de 12.000 € avec un TAEG de 12 % :\n\nTu peux rembourser \n\n* 312 € pendant 48 mois \n* ou 263 € pendant 60 mois\n\n**Avec la mensualité de 263 €, tu seras lié pendant 12 mois de plus et tu rembourseras en fin de compte 793 € d’intérêts en plus.**"
 image = ""
 infotext = "**La mensualité** et **le TAEG** sont de bonnes indications et te permettent de comparer les prix. \n\nIl faudra prendre également en compte **la durée du crédit** (plus c’est long, plus c’est cher !).\n\nAttention aussi au **coût des assurances** ou des autres produits connexes qu’on va te proposer !!!"
 titre = "Comment comparer les prix ? "
 [[blockinfo]]
-darktext = ""
-image = ""
-infotext = "* Premier conseil : Va sur internet pour avoir une idée du taux que tu pourrais obtenir. \n\n\n* Après vérification, rends-toi chez un concessionnaire. \n* Avant de parler de crédit, négocie le prix de la voiture et les conditions de reprise de ton ancienne voiture. \n\n\n* Ensuite, demande-lui une offre pour un crédit et n’hésite pas à négocier en faisant valoir les différents taux que tu peux obtenir à d’autres endroits (banque ou concessionnaire). \n\n\n* Compare ensuite toutes les offres obtenues en prenant en compte du TAEG , du montant à emprunter, de la durée du contrat et du coût des assurances que l’on te proposera.\n* Lorsque tu auras pris ta décision, n’oublie surtout pas de demander au concessionnaire d’indiquer sur le bon de commande « _sous réserve d’acceptation d’un crédit »_ ou encore « _sous réserve de rétractation dans un délai de 14 jours à dater de la signature du présent bon de commande_ ». \n\n  Si pour une quelconque raison tu changes d’avis ou n’obtiens pas le crédit, l’achat de la voiture pourra être annulé sans frais. \n\n> **Prends ton temps** pour comparer les offres et ne te précipite pas. Les vendeurs sont formés pour vendre. Certains n’hésiteront donc pas à essayer de te faire signer le contrat le plus rapidement possible. Mais **tu es le client et tu peux imposer ton propre rythme !**"
-titre = "Quelques conseils pour obtenir le meilleur crédit voiture"
-[[blockinfo]]
 darktext = "Finalement, cela te coûtera **plusieurs centaines d’euros par mois** . \n\nLe coût exact dépendra de la voiture en elle-même et de l’utilisation que tu en feras."
 image = ""
 infotext = "Avant de prendre une décision, la première question est d’évaluer le coût d’une voiture à l’achat et à l’utilisation.\n\nUne voiture coûte cher. Vérifie avant tout que tu sauras en assumer les frais : taxe de mise en circulation, taxe de circulation annuelle, assurances, entretiens, réparations, essence, frais de parking, etc. \n\n***"
 titre = "AVANT DE PRENDRE UNE DECISION"
+[[blockinfo]]
+darktext = ""
+image = ""
+infotext = ""
+titre = "Est-ce que tu peux faire marche arrière ? "
 [[blockinfo]]
 darktext = "La face cachée\n\nUne voiture coûte cher. Dans ton budget, il ne faut pas oublier qu’en plus du remboursement du crédit,  tu devras payer les taxes, les assurances, les entretiens, les réparations, l’essence, les frais de parking, etc. \n\nPour en savoir plus sur le coût d’une voiture, clique ici"
 image = "/uploads/Vieux-cadran.jpg"
@@ -49,6 +44,11 @@ darktext = "La face cachée ?\n\nCe type de crédit ne t’impose en effet aucun
 image = ""
 infotext = "Que dit la pub ?\n\n_« Utilisez votre réserve d’argent selon vos besoins »._\n\nC’est une somme d’argent qui est mise à ta disposition et que tu peux utiliser au fur et à mesure de tes besoins. Dès que tu l’utilises, tu rembourses un montant minimum tous les mois.\n\nCe type de crédit n’est pas proposé chez les concessionnaires, mais il peut être tentant d’utiliser une carte de crédit pour l’achat d’une voiture d’occasion dont le prix n’est pas trop élevé."
 titre = "L’OUVERTURE DE CREDIT"
+[[blockinfo]]
+darktext = ""
+image = ""
+infotext = "* Premier conseil : Va sur internet pour avoir une idée du taux que tu pourrais obtenir. \n\n\n* Après vérification, rends-toi chez un concessionnaire. \n* Avant de parler de crédit, négocie le prix de la voiture et les conditions de reprise de ton ancienne voiture. \n\n\n* Ensuite, demande-lui une offre pour un crédit et n’hésite pas à négocier en faisant valoir les différents taux que tu peux obtenir à d’autres endroits (banque ou concessionnaire). \n\n\n* Compare ensuite toutes les offres obtenues en prenant en compte du TAEG , du montant à emprunter, de la durée du contrat et du coût des assurances que l’on te proposera.\n* Lorsque tu auras pris ta décision, n’oublie surtout pas de demander au concessionnaire d’indiquer sur le bon de commande « _sous réserve d’acceptation d’un crédit »_ ou encore « _sous réserve de rétractation dans un délai de 14 jours à dater de la signature du présent bon de commande_ ». \n\n  Si pour une quelconque raison tu changes d’avis ou n’obtiens pas le crédit, l’achat de la voiture pourra être annulé sans frais. \n\n> **Prends ton temps** pour comparer les offres et ne te précipite pas. Les vendeurs sont formés pour vendre. Certains n’hésiteront donc pas à essayer de te faire signer le contrat le plus rapidement possible. Mais **tu es le client et tu peux imposer ton propre rythme !**"
+titre = "Quelques conseils pour obtenir le meilleur crédit voiture"
 [[blockinfo]]
 darktext = "Avant de contracter un crédit, il est intéressant de connaître les lieux où tu peux obtenir un crédit. **Tu n’es pas obligé d’emprunter chez le concessionnaire.  Tu peux obtenir un crédit auprès d’une banque, sur internet …**\n\nLorsqu’il fait signer un contrat, le concessionnaire est considéré comme un intermédiaire de crédit. Il est souvent rémunéré par l’organisme de crédit. Il n’est donc pas forcément neutre. **Ne fonce pas trop vite et vérifie si les conditions qu’ils te proposent ne sont pas meilleures ailleurs.**\n\nUn crédit auprès d’une banque peut parfois être plus intéressant ! \n\nIl existe pas mal de comparateurs sur internet qui te permettent de comparer les prix.\n\n[https://www.guide-epargne.be/epargner/comparer/emprunt-voiture.html](https://www.guide-epargne.be/epargner/comparer/emprunt-voiture.html \"https://www.guide-epargne.be/epargner/comparer/emprunt-voiture.html\")\n\n[https://www.topcompare.be/fr](https://www.topcompare.be/fr \"https://www.topcompare.be/fr\")"
 image = "/uploads/Distrib.jpg"
