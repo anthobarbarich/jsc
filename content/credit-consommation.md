@@ -7,6 +7,11 @@ title = "Crédit à à la Consommation"
 [[blockinfo]]
 darktext = ""
 image = ""
+infotext = "Avant de te lancer, vérifie si ton budget te permet de rembourser un crédit en plus de tes dépenses habituelles . \n\nMême si le mot budget peut parfois faire peur, il y a des conseils simples à suivre pour toujours avoir la main sur tes dépenses .\n\nUne vie agréable en respectant un certain budget, c’est possible.\n\nTu trouveras des exemples de grilles budgétaires ici et ici."
+titre = "Avant de te lancer"
+[[blockinfo]]
+darktext = ""
+image = ""
 infotext = "Le crédit est parfois indispensable pour concrétiser un projet. C’est un acte que tu ne dois pas prendre à la légère : les conséquences peuvent être importantes.\n\nTu trouveras ici les informations de base sur les différents types de crédits qui existent sur le marché et leur **face cachée** !"
 titre = ""
 [[blockinfo]]
