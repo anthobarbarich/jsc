@@ -21,3 +21,4 @@ infotext = "Nul besoin de te déplacer jusqu'à la banque, le concessionnaire se
 titre = "UN CRÉDIT DE SON SALON, C'EST POSSIBLE?"
 
 +++
+{{<tableau>}}
