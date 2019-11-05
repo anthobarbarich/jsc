@@ -1,7 +1,7 @@
 +++
 headertext = "Alors comme ça tu veux pouvoir disposer de **plus d’argent** ? "
 icon = "/uploads/card.svg"
-introtext = "Que dit la pub ? Le crédit à la consommation se présente sous plusieurs formes. A chaque projet son crédit ! Une folle envie de vacances ? Le lave-linge qui rend l’âme ? Il y en a pour toutes les envies !"
+introtext = "Que dit la pub ? \n\n« _Alors comme ça tu veux pouvoir disposer de plus d’argent ? Le crédit à la consommation se présente sous plusieurs formes._ \n\n_À chaque projet son crédit ! Une folle envie de vacances ? Le lave-linge qui rend l’âme ? Il y en a pour toutes les envies !»_"
 kredpic = "/uploads/newcredits.svg"
 title = "Crédit à à la Consommation"
 [[blockinfo]]
