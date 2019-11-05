@@ -1,6 +1,6 @@
 +++
 headertext = "J'AI DÉJÀ **UN OU PLUSIEURS CRÉDITS** ET JE SOUHAITE EN CONTRACTER **DE NOUVEAUX**"
-icon = ""
+icon = "/uploads/grow.jpg"
 introtext = ""
 kredpic = "/uploads/kredsupermarche2.svg"
 title = "Tu as déjà un ou plusieurs crédits ?"
