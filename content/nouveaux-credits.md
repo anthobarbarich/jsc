@@ -2,7 +2,7 @@
 headertext = "J'AI DÉJÀ **UN OU PLUSIEURS CRÉDITS** ET JE SOUHAITE EN CONTRACTER **DE NOUVEAUX**"
 icon = ""
 introtext = ""
-kredpic = "/uploads/consonew.svg"
+kredpic = "/uploads/kredsupermarche2.svg"
 title = "Tu as déjà un ou plusieurs crédits ?"
 [[blockinfo]]
 darktext = "Malgré les avantages que t’avancent les prêteurs, il y a plusieurs inconvénients. Regrouper tes crédits te coûtera souvent plus cher. En effet, la durée totale du nouveau crédit sera plus longue que celle des précédents. C’est cet allongement de la durée de paiement qui va permettre de diminuer les mensualités, mais qui augmente le coût total du crédit. Tu vas donc payer plus cher sur le long terme. Tu dois également être attentif au taux qui sera proposé. Certains prêts bénéficient d’un taux d’intérêt avantageux (par exemple les contrats de prêt pour l’achat d’une voiture). En cas de regroupement de crédits, tu risques de perdre le bénéfice de ce taux avantageux.\n\nAu final, le regroupement de crédit te fera rarement gagner de l’argent, que du contraire. Si tes difficultés sont trop importantes, le regroupement de crédit risque d’aggraver ta situation.\n\nSache qu’il existe d’autres moyens de s’en sortir, comme la médiation de dettes et le règlement collectif de dettes."
