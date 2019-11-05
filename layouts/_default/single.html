@@ -22,6 +22,85 @@
   background: #ea4e67;
   color: white;/* Gecko Browsers */
 }
+/* Lightbox*/
+tr {
+    height: 40px;
+}
+.voiture.petiteNeuve {
+    padding: 0% 15% 4% 15%;
+}
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  /* padding-top: 100px; */
+  left: 0;
+  top: 0;
+  width: 50%;
+  height: 80%;
+  overflow: auto;
+  margin: 10% 25% 20% 25%;
+}
+.salmon {
+  color: rgba(234, 78, 87);
+}
+/* The Close Button */
+.close {
+  color: white;
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  font-size: 35px;
+  font-weight: bold;
+}
+.modal-content {
+    margin: 2% 10%;
+}
+td {
+    width: 76%;
+    /* height: 20px; */
+    padding: 5px;
+}
+.border {
+  border-bottom: dashed 3.2px;
+  border-color: rgba(234, 78, 87, .5);
+}
+.darkTransparent {
+  margin-top: 28px;
+  padding: 20px;
+  border-left: 7px solid #ea4e57;
+  border-radius: 4px;
+  background-color: rgba(34, 27, 66, .96);
+  -webkit-transition: -webkit-transform 325ms ease;
+  transition: -webkit-transform 325ms ease;
+  transition: transform 325ms ease;
+  transition: transform 325ms ease, -webkit-transform 325ms ease;
+  color: #fff;
+  font-size: 18px;
+  line-height: 26px;
+}
+#modalCTA:hover{
+    cursor: pointer;
+}
+.close:hover,
+.close:focus {
+  color: #999;
+  text-decoration: none;
+  cursor: pointer;
+}
+@media only screen and (max-width: 600px){
+    .modal, .darkTransparent, #tableModal{
+        margin: 2.5%;
+        width: 82%;
+    } 
+    .modal-content {
+    margin: 0% 0%;
+    }
+    .voiture {
+    padding: 0% 0% 4% 0%;
+}
+
+}
  </style>
   <!--  Google Tag Manager  -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -68,14 +147,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="dark truncate" style="color:white;">{{. | markdownify}}</div>
 {{end}}
 	
-	</div>
-        <div class="block-50">
-          <div class="imgwrapper"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 958 958" width="560" alt="" class="contourwhite"><g data-name="Calque 2"><path d="M0 0v958h958V0zm16 480.5C16 239.5 211.4 44 452.5 44a435.2 435.2 0 01307.7 127l189-42.8L853.6 308A435.1 435.1 0 01889 480.5a436.5 436.5 0 01-873 0z" fill="#fff" data-name="Calque 3"/></g></svg><!--<img src="/images/contourwhiteright.svg" width="560" alt="" class="contourwhite">--><img src="{{.image}}" width="535" alt="" class="imginfo"></div>
-        </div>
-      </div>{{end}}
-		
-		
-		
     </div>
-  </div>
+          <div class="block-50">
+            <div class="imgwrapper"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 958 958" width="560" alt="" class="contourwhite"><g data-name="Calque 2"><path d="M0 0v958h958V0zm16 480.5C16 239.5 211.4 44 452.5 44a435.2 435.2 0 01307.7 127l189-42.8L853.6 308A435.1 435.1 0 01889 480.5a436.5 436.5 0 01-873 0z" fill="#fff" data-name="Calque 3"/></g></svg><!--<img src="/images/contourwhiteright.svg" width="560" alt="" class="contourwhite">--><img src="{{.image}}" width="535" alt="" class="imginfo"></div>
+          </div>
+        </div>{{end}}
+        {{ .Content }}
+
+      </div>
+    </div>
+    
+
 {{ partial "footer.html" }}
