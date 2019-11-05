@@ -15,29 +15,9 @@ image = "/uploads/Vieux-cadran.jpg"
 infotext = "Que dit la pub sur ce type de crédit ?\n\n_« Grâce à un taux d’intérêt avantageux pour l’achat de votre voiture, vous échelonnez votre financement et votre budget reste en équilibre ! Vous déterminez le montant que vous souhaitez emprunter et la durée du prêt »_.\n\n**Le prêt à tempérament c'est le crédit « classique » pour une voiture**. Le principe est le suivant : **tu rembourses tous les mois un montant qui est fixe dans un délai déterminé.** \n\nGrâce à ce crédit, tu peux financer l’achat d’une voiture, neuve ou d’occasion. Dans ce dernier cas, le TAEG  sera généralement plus élevé."
 titre = "Le prêt à tempérament ou prêt personnel"
 [[blockinfo]]
-darktext = ""
-image = ""
-infotext = ""
-titre = ""
-[[blockinfo]]
-darktext = ""
-image = ""
-infotext = ""
-titre = ""
-[[blockinfo]]
-darktext = ""
-image = ""
-infotext = ""
-titre = ""
-[[blockinfo]]
-darktext = ""
-image = ""
-infotext = ""
-titre = ""
-[[blockinfo]]
-darktext = "Rien ne garantit que la voiture aura toujours la valeur de cette dernière mensualité. Tu n'es donc pas à l'abri d'une belle surprise...  \n  \nSi tu rends la voiture pour ne pas payer le « ballon », il faudra qu’elle soit en super bon état, sinon **les frais de réparations te seront réclamés** (y compris pour des rayures ou des simples bosses).  \n  \n**Et ce n’est pas tout …** il peut y avoir encore des frais en plus à la fin du contrat. Souvent les contrats ne prévoient qu’un kilométrage assez limité et tout kilomètre supplémentaire te sera facturé en plus à la fin.  \n  \nAttention dans certains contrats, il n’est pas possible de restituer la voiture à la fin et il faudra toujours payer le ballon !  \n  \nSeule porte de sortie si tu n’arrives pas à rembourser le ballon et les frais … un nouveau crédit et … en avant la spirale du surendettement."
+darktext = "La face cachée\n\n**De nombreuses mauvaises surprises t'attendent en fin de contrat !!!** \n\nOn te dit que tu pourras rembourser le « ballon » en restituant le véhicule. Cependant, il faudra qu’il soit en très bon état, sinon **les frais de réparations te seront réclamés** (y compris pour des rayures ou de simples bosses). \n\nEt ce n’est pas tout … **il peut y avoir encore d'autres frais supplémentaires à la fin du contrat.** Souvent les contrats ne prévoient qu’un kilométrage assez limité qu’il ne faut en principe pas dépasser pour que la voiture puisse être reprise. Si tu le dépasses, tout kilomètre supplémentaire te sera facturé.\n\nDans certains contrats, il n’est pas possible de restituer la voiture à la fin et il faudra toujours payer le ballon, qui atteint très souvent plusieurs milliers d’euros.\n\n**Seule porte de sortie si tu n’arrives pas à rembourser le ballon et les frais … un nouveau crédit ... et en avant la spirale du surendettement.**"
 image = "/uploads/echec-.jpg"
-infotext = "Le crédit ballon peut se présenter sous différentes formules, mais le principe reste le même : **tu payes une mensualité moins élevée** que le prêt à tempérament. Par contre, **tu devras rembourser une dernière mensualité bien plus élevée appelée « le ballon »**. Si tu n’arrives pas à rembourser cette dernière mensualité, tu pourras (parfois) restituer le véhicule"
+infotext = "Que dit la pub ?\n\n_« Le financement ballon est une formule de financement avantageuse et flexible, qui vous permet d’acquérir votre nouvelle voiture en toute simplicité. Après avoir effectué de petits remboursements mensuels, vous pourrez choisir de conserver votre voiture ou de la remplacer par un tout nouveau modèle »._\n\nLe crédit ballon peut se présenter sous différentes formules, mais le principe reste le même : **tu payes une faible mensualité. Par contre, tu devras rembourser une dernière mensualité bien plus élevée appelée « le ballon »**."
 titre = "UN CRÉDIT BALLON ?"
 [[blockinfo]]
 darktext = "**LA fausse bonne** idée. celui-ci est souvent accompagné d'un acompte élevé, d'une assurance supplémentaire ou d'une extension de garantie.  \n  \nLe concessionnaire, intermédiaire de crédit, est une personne rémunérée par l'organisme de crédit pour en faire signer. Il faut donc vérifier si les conditions proposées par le garage ne peuvent pas être concurrencées par un autre prêteur."
