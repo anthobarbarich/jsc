@@ -3,7 +3,7 @@ headertext = "Alors comme ça tu veux pouvoir disposer de **plus d’argent** ? 
 icon = "/uploads/card.svg"
 introtext = "« _Alors comme ça tu veux pouvoir disposer de plus d’argent ? Le crédit à la consommation se présente sous plusieurs formes._ \n\n_À chaque projet son crédit ! Une folle envie de vacances ? Le lave-linge qui rend l’âme ? Il y en a pour toutes les envies !»_\n\nLe crédit est parfois indispensable pour concrétiser un projet. \n\nTu trouveras ici les informations de base sur les différents types de crédits qui existent sur le marché et leur **face cachée** !"
 kredpic = "/uploads/newcredits.svg"
-title = "Crédit à à la Consommation"
+title = "Crédit à la Consommation"
 [[blockinfo]]
 darktext = ""
 image = ""
