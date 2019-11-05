@@ -1,7 +1,7 @@
 +++
 headertext = "Alors comme ça tu veux pouvoir disposer de **plus d’argent** ? "
 icon = "/uploads/card.svg"
-introtext = "Que dit la pub ? \n\n« _Alors comme ça tu veux pouvoir disposer de plus d’argent ? Le crédit à la consommation se présente sous plusieurs formes._ \n\n_À chaque projet son crédit ! Une folle envie de vacances ? Le lave-linge qui rend l’âme ? Il y en a pour toutes les envies !»_"
+introtext = "Que dit la pub ? \n\n« _Alors comme ça tu veux pouvoir disposer de plus d’argent ? Le crédit à la consommation se présente sous plusieurs formes._ \n\n_À chaque projet son crédit ! Une folle envie de vacances ? Le lave-linge qui rend l’âme ? Il y en a pour toutes les envies !»_\n\nLa face cachée \n\nLe crédit est parfois indispensable pour concrétiser un projet. C’est un acte que tu ne dois pas prendre à la légère : les conséquences peuvent être importantes.\n\nTu trouveras ici les informations de base sur les différents types de crédits qui existent sur le marché et leur face cachée !\n\nAvant de te lancer, vérifie si ton budget te permet de rembourser un crédit en plus de tes dépenses habituelles . Même si le mot budget peut parfois faire peur, il y a des conseils simples à suivre pour toujours avoir la main sur tes dépenses . \n\nUne vie agréable en respectant un certain budget, c’est possible. \n\nTu trouveras des exemples de grilles budgétaires ici et ici."
 kredpic = "/uploads/newcredits.svg"
 title = "Crédit à à la Consommation"
 [[blockinfo]]
