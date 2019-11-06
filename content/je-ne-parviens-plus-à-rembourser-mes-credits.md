@@ -24,5 +24,10 @@ darktext = "En Wallonie : [http://actionsociale.wallonie.be/lutte-surendettement
 image = ""
 infotext = ""
 titre = "Où trouver un service de médiation de dettes proche de chez toi ?"
+[[blockinfo]]
+darktext = ""
+image = ""
+infotext = ""
+titre = "Nos supports d’information"
 
 +++
