@@ -35,6 +35,11 @@ image = "/uploads/Vieux-cadran.jpg"
 infotext = "Le crédit auto « classique » est un prêt à tempérament. Le principe est le suivant : tu rembourse des **mensualités qui sont fixes** dans un **délai déterminé**. Grâce à ce crédit, tu peux financer une voiture, neuve ou d’occasion."
 titre = "Un prêt à tempérament, c'est quoi ça?"
 [[blockinfo]]
+darktext = ""
+image = ""
+infotext = ""
+titre = "Comment choisir le type de crédit dont tu as besoin ?"
+[[blockinfo]]
 darktext = "Rien ne garantit que la voiture aura toujours la valeur de cette dernière mensualité. Tu n'es donc pas à l'abri d'une belle surprise...  \n  \nSi tu rends la voiture pour ne pas payer le « ballon », il faudra qu’elle soit en super bon état, sinon **les frais de réparations te seront réclamés** (y compris pour des rayures ou des simples bosses).  \n  \n**Et ce n’est pas tout …** il peut y avoir encore des frais en plus à la fin du contrat. Souvent les contrats ne prévoient qu’un kilométrage assez limité et tout kilomètre supplémentaire te sera facturé en plus à la fin.  \n  \nAttention dans certains contrats, il n’est pas possible de restituer la voiture à la fin et il faudra toujours payer le ballon !  \n  \nSeule porte de sortie si tu n’arrives pas à rembourser le ballon et les frais … un nouveau crédit et … en avant la spirale du surendettement."
 image = "/uploads/echec-.jpg"
 infotext = "Le crédit ballon peut se présenter sous différentes formules, mais le principe reste le même : **tu payes une mensualité moins élevée** que le prêt à tempérament. Par contre, **tu devras rembourser une dernière mensualité bien plus élevée appelée « le ballon »**. Si tu n’arrives pas à rembourser cette dernière mensualité, tu pourras (parfois) restituer le véhicule"
