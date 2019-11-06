@@ -12,7 +12,7 @@ titre = "Fais le point sur tes comptes"
 [[blockinfo]]
 darktext = ""
 image = ""
-infotext = "Évite à tout prix d’emprunter pour rembourser d’autres crédits et/ou tes dettes. Tes difficultés à rembourser tes crédits en cours ne vont pas disparaître en empruntant plus ! \n\nSi tu as l’intention de contracter un crédit, n’emprunte pas plus que nécessaire. Et si l’on te propose d’augmenter ta ligne de crédit, réfléchis si tu en as vraiment besoin. \n\nLe banquier te proposer un regroupement de crédits comme étant la solution à un surendettement, mais renseigne-toi avant de signer."
+infotext = " Prends les devants et informe le prêteur à qui tu dois de l'argent que tu ne parviens plus à rembourser ton crédit comme prévu. \n\nPar la même occasion, il est conseillé de lui faire une proposition de plan de paiement échelonné. Le prêteur préfère souvent prendre un accord amiable, plutôt que de ne plus recevoir aucun paiement et devoir faire des frais pour récupérer ce qu'on lui doit ! \n\nAttention, fais une proposition de remboursement raisonnable sur base d'un montant que tu pourras réellement payer tous les mois. Propose un montant qui correspond à ton budget. Un service de médiation de dettes peut t'aider à formuler la demande.\n\nSi le prêteur refuse ta proposition, tu peux aussi introduire une demande gratuite auprès du Juge de paix afin d'obtenir un rééchelonnement de ton crédit. Tu peux déposer la demande toi-même ou avec l'aide d'un service de médiation de dettes ou d'un avocat."
 titre = "Demande un plan de paiement"
 
 +++
