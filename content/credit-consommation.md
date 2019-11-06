@@ -12,6 +12,11 @@ titre = "La carte de crédit"
 [[blockinfo]]
 darktext = ""
 image = ""
+infotext = "Ta banque peut t’autoriser à descendre en dessous de zéro sur ton compte en banque. Dans la plupart des cas, il s’agit aussi d’une ouverture de crédit.\n\nComme ce crédit est très cher, ne l’utilise qu’en cas de manque d’argent temporaire que tu pourras rapidement rembourser. \n\nClique ici  pour en savoir plus et connaître les risques."
+titre = "Le découvert sur ton compte en banque"
+[[blockinfo]]
+darktext = ""
+image = ""
 infotext = "Avant de te lancer, vérifie si ton budget te permet de rembourser un crédit en plus de tes dépenses habituelles .\n\nMême si le mot budget peut parfois faire peur, il y a des [conseils simples](https://www.thebudgetmom.com/) à suivre pour toujours avoir la main sur tes dépenses .\n\nUne vie agréable en respectant un certain budget, c’est possible.\n\nTu trouveras des exemples de grilles budgétaires[ ici](http://socialsante.wallonie.be/surendettement/citoyen/calcul_budget_public/) et [ici](http://www.checkyourbudget.be/spip.php?rubrique27&lang=fr)."
 titre = "Avant de te lancer"
 [[blockinfo]]
