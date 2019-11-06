@@ -12,8 +12,8 @@ titre = "Le regroupement de crédit"
 [[blockinfo]]
 darktext = ""
 image = ""
-infotext = ""
-titre = ""
+infotext = "Si tu ne rembourses pas ton ou tes crédits, le prêteur a plusieurs moyens pour récupérer son argent. \n\n**La clause de réserve de propriété**\n\nSouvent, lorsque tu signes un crédit pour financer un bien comme une voiture, tu signes également ce qu’on appelle une clause de réserve de propriété. \n\nCette clause retarde le transfert de propriété de la voiture jusqu’au moment du paiement complet du prix."
+titre = "Quels sont les risques si tu ne parviens pas à rembourser ?"
 [[blockinfo]]
 darktext = "Rien ne garantit que la voiture aura toujours la valeur de cette dernière mensualité. Tu n'es donc pas à l'abri d'une belle surprise...  \n  \nSi tu rends la voiture pour ne pas payer le « ballon », il faudra qu’elle soit en super bon état, sinon **les frais de réparations te seront réclamés** (y compris pour des rayures ou des simples bosses).  \n  \n**Et ce n’est pas tout …** il peut y avoir encore des frais en plus à la fin du contrat. Souvent les contrats ne prévoient qu’un kilométrage assez limité et tout kilomètre supplémentaire te sera facturé en plus à la fin.  \n  \nAttention dans certains contrats, il n’est pas possible de restituer la voiture à la fin et il faudra toujours payer le ballon !  \n  \nSeule porte de sortie si tu n’arrives pas à rembourser le ballon et les frais … un nouveau crédit et … en avant la spirale du surendettement."
 image = "/uploads/echec-.jpg"
