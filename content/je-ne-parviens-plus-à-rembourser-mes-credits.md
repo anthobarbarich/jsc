@@ -14,5 +14,10 @@ darktext = ""
 image = ""
 infotext = " Prends les devants et informe le prêteur à qui tu dois de l'argent que tu ne parviens plus à rembourser ton crédit comme prévu. \n\nPar la même occasion, il est conseillé de lui faire une proposition de plan de paiement échelonné. Le prêteur préfère souvent prendre un accord amiable, plutôt que de ne plus recevoir aucun paiement et devoir faire des frais pour récupérer ce qu'on lui doit ! \n\nAttention, fais une proposition de remboursement raisonnable sur base d'un montant que tu pourras réellement payer tous les mois. Propose un montant qui correspond à ton budget. Un service de médiation de dettes peut t'aider à formuler la demande.\n\nSi le prêteur refuse ta proposition, tu peux aussi introduire une demande gratuite auprès du Juge de paix afin d'obtenir un rééchelonnement de ton crédit. Tu peux déposer la demande toi-même ou avec l'aide d'un service de médiation de dettes ou d'un avocat."
 titre = "Demande un plan de paiement"
+[[blockinfo]]
+darktext = ""
+image = ""
+infotext = "Si malgré toutes tes démarches, ta situation financière ne s’améliore pas et que tu n’arrives pas à rembourser tes dettes à temps, rends rapidement visite à un service de médiation de dettes. Celui du CPAS de ta commune ou d’une association, par exemple.\n\nLa médiation de dettes va t’aider à éclaircir ta situation pour que tu puisses rembourser tes dettes, tout en te permettant de mener une vie décente.\n\nTu pourras présenter ta situation à un travailleur social expérimenté et poser toutes tes questions.\n\nCe service fera le point sur ton budget et ta situation financière et pourra prendre contact avec tes créanciers dans le but de leur proposer, si possible, un remboursement échelonné des dettes, voire un rééchelonnement de tes crédits.\n\nLorsqu’aucune solution amiable ne peut être trouvée, le service de médiation de dettes pourra t’aider à introduire une procédure judiciaire de règlement collectif de dettes."
+titre = "Demande l’aide d’un service de médiation de dettes"
 
 +++
