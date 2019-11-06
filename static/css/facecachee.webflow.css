@@ -20,6 +20,10 @@ a {
 strong {
 color: #ea4e57;
   }
+/*Illustration*/
+img[src*="consonew"]{
+  margin-right: 10%;
+}
 /* Lightbox*/
   tr {
     height: 40px;
@@ -491,6 +495,7 @@ transform: rotate(-450deg);
   position: absolute;
   right: 50px;
   bottom: -63px;
+  margin-right: 10%;
 }
 
 .image-2.immmo {
@@ -1008,9 +1013,144 @@ html.w-mod-js *[data-ix="appearload-delay-kred"] {
   transform: translate(-24px, 0px);
 }
 
-@media (max-width: 479px) {
+
+@font-face {
+  font-family: 'Sharp grotesk 20';
+  src: url('../fonts/Sharp-Grotesk-SmBold-20-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'D dincondensed';
+  src: url('../fonts/D-DINCondensed-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Lightbox*/
+tr {
+  height: 40px;
+}
+.voiture.petiteNeuve {
+  padding: 0% 15% 4% 15%;
+}
+.modal {
+display: none;
+position: fixed;
+z-index: 9999;
+/* padding-top: 100px; */
+left: 0;
+top: 0;
+width: 50%;
+height: 80%;
+overflow: auto;
+margin: 10% 25% 20% 25%;
+}
+.salmon {
+color: rgba(234, 78, 87);
+}
+/* The Close Button */
+.close {
+color: white;
+position: absolute;
+top: 10px;
+right: 25px;
+font-size: 35px;
+font-weight: bold;
+}
+.modal-content {
+  margin: 2% 10%;
+}
+td {
+  width: 76%;
+  /* height: 20px; */
+  padding: 5px;
+}
+.border {
+border-bottom: dashed 3.2px;
+border-color: rgba(234, 78, 87, .5);
+}
+.darkTransparent {
+margin-top: 28px;
+padding: 20px;
+border-left: 7px solid #ea4e57;
+border-radius: 4px;
+background-color: rgba(34, 27, 66, .96);
+-webkit-transition: -webkit-transform 325ms ease;
+transition: -webkit-transform 325ms ease;
+transition: transform 325ms ease;
+transition: transform 325ms ease, -webkit-transform 325ms ease;
+color: #fff;
+font-size: 18px;
+line-height: 26px;
+}
+#modalCTA:hover{
+  cursor: pointer;
+}
+.close:hover,
+.close:focus {
+color: #999;
+text-decoration: none;
+cursor: pointer;
+}
+
+@media only screen and (min-width : 321px) and (max-width : 640px) {
+#tableModal.modal{
+    margin: 10% 2.5%;
+    width: 95%;
+} 
+.modal-content {
+margin: 0% 0%;
+}
+.voiture {
+padding: 0% 0% 4% 0%;
+}
   .hero.pages {
     height: 327px;
+  }
+  img[src*="kredcar"]{
+    top: 70%;
+    width: 95%;
+    margin-right: 67px;
+  }
+  img[src*="consonew"]{
+     top: 84%;
+    margin-right: 28px;
+  }
+  img[src*="rembourser2"]{
+    top: 52%;
+    margin-right: 20%;
+    width: 90%;
+  }
+  img[src*="newcredits"]{
+  top: 59%;
+    margin-right: 76px;
+    width: 89%;
+  }
+  .column-X {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+    padding: 0px;
+    text-align: center;
+}
+  .column-9{
+    margin: 0% 20%;
+  }
+  .image-3{
+    width: 60%;
+  }
+  .darkhome {
+    position: absolute;
+    z-index: 2;
+    width: 60%;
+    max-width: 600px;
+    margin-top: -16px;
+    -webkit-align-self: start;
+    -ms-flex-item-align: start;
+    -ms-grid-row-align: start;
+    align-self: start;
+    opacity: 0;
   }
   .nav {
     padding: 10px;
@@ -1018,6 +1158,7 @@ html.w-mod-js *[data-ix="appearload-delay-kred"] {
   .headertxt {
     font-size: 26px;
     line-height: 33px;
+    margin-top: -20px;
   }
 	  .headertxt2 {
     font-size: 26px;
@@ -1032,7 +1173,7 @@ html.w-mod-js *[data-ix="appearload-delay-kred"] {
     -webkit-transform: none;
     -ms-transform: none;
     transform: none;
-    padding: 46px;
+    padding: 24px;
     text-align: center;
 }
   .logotxt {
@@ -1114,6 +1255,7 @@ html.w-mod-js *[data-ix="appearload-delay-kred"] {
   }
   .pfooter {
     text-align: center;
+      padding: 0% 1%;
   }
   .lastcol {
     text-align: center;
@@ -1167,106 +1309,168 @@ html.w-mod-js *[data-ix="appearload-delay-kred"] {
     width: 90%;
   }
   .sponso-home {
-    left: 25px;
+    /* left: 25px; */
     top: auto;
-    right: -2px;
-    bottom: -148.7812px;
+    /* right: -2px; */
+    bottom: -175.7812px;
     width: 100%;
   }
+  
   .column-10 {
     display: none;
   }
+  img.icon {
+    margin: 0px 0px 20px 0px;
 }
-
-@font-face {
-  font-family: 'Sharp grotesk 20';
-  src: url('../fonts/Sharp-Grotesk-SmBold-20-Regular.otf') format('opentype');
-  font-weight: 400;
-  font-style: normal;
 }
-@font-face {
-  font-family: 'D dincondensed';
-  src: url('../fonts/D-DINCondensed-Bold.otf') format('opentype');
-  font-weight: 700;
-  font-style: normal;
+@media only screen and (min-width : 768px) and (max-width : 1366px) {
+  .container-2.w-container {
+    height: 470px;
 }
-
-/* Lightbox*/
-tr {
-  height: 40px;
-}
-.voiture.petiteNeuve {
-  padding: 0% 15% 4% 15%;
-}
-.modal {
-display: none;
-position: fixed;
-z-index: 9999;
-/* padding-top: 100px; */
-left: 0;
-top: 0;
-width: 50%;
-height: 80%;
-overflow: auto;
-margin: 10% 25% 20% 25%;
-}
-.salmon {
-color: rgba(234, 78, 87);
-}
-/* The Close Button */
-.close {
-color: white;
-position: absolute;
-top: 10px;
-right: 25px;
-font-size: 35px;
-font-weight: bold;
-}
-.modal-content {
-  margin: 2% 10%;
-}
-td {
-  width: 76%;
-  /* height: 20px; */
-  padding: 5px;
-}
-.border {
-border-bottom: dashed 3.2px;
-border-color: rgba(234, 78, 87, .5);
-}
-.darkTransparent {
-margin-top: 28px;
-padding: 20px;
-border-left: 7px solid #ea4e57;
-border-radius: 4px;
-background-color: rgba(34, 27, 66, .96);
--webkit-transition: -webkit-transform 325ms ease;
-transition: -webkit-transform 325ms ease;
-transition: transform 325ms ease;
-transition: transform 325ms ease, -webkit-transform 325ms ease;
-color: #fff;
-font-size: 18px;
-line-height: 26px;
-}
-#modalCTA:hover{
-  cursor: pointer;
-}
-.close:hover,
-.close:focus {
-color: #999;
-text-decoration: none;
-cursor: pointer;
-}
-@media only screen and (max-width: 600px){
-  .modal, .darkTransparent, #tableModal{
-      margin: 2.5%;
-      width: 82%;
-  } 
-  .modal-content {
-  margin: 0% 0%;
+  .hero {
+    position: relative;
+    height: 94%;
   }
-  .voiture {
-  padding: 0% 0% 4% 0%;
+  img[src*="consonew"]{
+    position: absolute;
+    right: 22px;
+    width: 71%;
+    top: 377px;
+  }
+
+
+  img[src*="newcredits"]{
+    top: 43%;
+  }
+  img[src*="darkkredimmo"]{
+    width: 50%;
+    margin-top: -92px;
+    margin-left: 39%;
+  }
+  img[src*="immo2"]{
+    width: 50%;
+    margin-top: -92px;
+    margin-left: 39%;
+  }
+  img[src*="kredcar"]{
+    top: 60%;
+    left: 3%;
+  }
+  img[src*="rembourser2"]{
+    position: absolute;
+    right: 106px;
+    width: 61%;
+    bottom: -160px;
+  }
+  .headertxt {
+    margin-top: 0px;
+  }
+  .btncta {
+  margin-right: 25px;
+  }
+  img.imginfo {
+    border: solid white 2px;
+    margin: 0px 0px;
+}
+  .lastcol.w-col.w-col-4 {
+    width: 30%;
+    top: 20PX;
+    position: relative;
+    top: -212px;
+    left: 67%;
+    /* background-color: white; */
+    /* width: 500px; */}
+    ._01.ressource {
+      padding-top: 0px;
+  }
+  .column-5.w-col.w-col-6 {
+    padding-left: 0px;
+    margin: 0px 15px 0px -20px;
+}
+  img[src~="car"],  img[src~="card"]{
+    margin: 40px 0px;
+}
+  .colblocks {
+    margin-bottom: 107px;
+    display: flex;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .navlink {
+  line-height: 32px;
+  }
+  .image-2 {
+    position: absolute;
+    right: 50px;
+    bottom: -107px;
+  }
+  .w-col {
+    position: relative;
+    /* float: left; */
+    width: 100%;
+    top: 5%;
+    left: 2%;
+    min-height: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .colhero1 {
+    position: absolute;
+    left: 80px;
+    left: -123px;
+    top: 72%;
+    right: -10px;
+    /* left: 22px; */
+  }
+  .w-col.w-col-6.column-X {
+    WIDTH: 90%;
+    margin: -35% 5%;
+}
+  .nav {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    padding: 20px 15px 20px 15px;
+  }
+  .imgbottom {
+
+    bottom: -2px;
+  }
+  .dropdown-list.w--open {
+    overflow: hidden;
+    margin-top: -38px;
+    margin-left: 27%;
+    border-bottom-right-radius: 50px;
+}
+  .centercontain {
+    position: relative;
+    top: 52%;
+  }
+  .dropdown-toggle {
+    width: 376.296875px;
+    margin-left: 27%;
+    margin-top: 18%;
+  }
+  .subheadline {
+    display: inline-block;
+    margin-top: 18px;
+    font-family: 'D dincondensed', sans-serif;
+    color: #fff;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  img.icon{
+    margin: 40px 0px 20px 0px;
+  }
+  .w-container .w-row {
+    /* margin-left: -10px; */
+    margin-right: -10px;
+}
+div#tableModal {
+  width: 80%;
+  margin: 5% 0% 5% 10%;
 }
 
-}
+  }
+

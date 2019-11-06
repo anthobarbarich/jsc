@@ -1,0 +1,36 @@
+
+
+  @media only screen and (min-width : 768px) and (max-width : 1024px) {
+    .centercontain {
+      position: relative;
+      top: 70%;
+      right: -12%;
+  }
+  .hero {
+    position: relative;
+    height: 109%;
+  }
+  .w-col {
+    width: 100%;
+    left: auto;
+    top: 57%;
+    height: 73%;
+    right: auto;
+  }
+  .bottomwhite {
+    position: absolute;
+    left: 20%;
+    right: 0px;
+    top: 166%;
+  }
+  
+  .dropdown-toggle {
+    margin-left: 10%;
+  }
+  img.image-3, img.darkhome {
+    width: 50%;
+    margin-left: 26%;
+    top: 20%;
+  }
+
+  }
