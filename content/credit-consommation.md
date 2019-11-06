@@ -17,6 +17,11 @@ titre = "Le découvert sur ton compte en banque"
 [[blockinfo]]
 darktext = ""
 image = ""
+infotext = "Le principe est le suivant : tu rembourses tous les mois un montant qui est fixe dans un délai déterminé.\n\nClique ici pour en savoir plus"
+titre = "Le prêt à tempérament ou le « prêt personnel » "
+[[blockinfo]]
+darktext = ""
+image = ""
 infotext = "Avant de te lancer, vérifie si ton budget te permet de rembourser un crédit en plus de tes dépenses habituelles .\n\nMême si le mot budget peut parfois faire peur, il y a des [conseils simples](https://www.thebudgetmom.com/) à suivre pour toujours avoir la main sur tes dépenses .\n\nUne vie agréable en respectant un certain budget, c’est possible.\n\nTu trouveras des exemples de grilles budgétaires[ ici](http://socialsante.wallonie.be/surendettement/citoyen/calcul_budget_public/) et [ici](http://www.checkyourbudget.be/spip.php?rubrique27&lang=fr)."
 titre = "Avant de te lancer"
 [[blockinfo]]
