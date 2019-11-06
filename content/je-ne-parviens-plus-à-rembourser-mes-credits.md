@@ -29,5 +29,10 @@ darktext = ""
 image = ""
 infotext = "Retrouve ici toutes les ressources dont tu as besoin pour tout savoir sur le crédit !\n\nAccède à nos brochures, vidéos et autres documents pour tout savoir sur les différents types de crédits, les services de médiation de dettes.\n\nTélécharger ici XXXXX"
 titre = "Nos supports d’information"
+[[blockinfo]]
+darktext = ""
+image = ""
+infotext = "Les partenaires de la Journée sans Crédit"
+titre = "Qui sommes-nous ?"
 
 +++
