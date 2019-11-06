@@ -10,7 +10,7 @@ image = "/uploads/lecteur-carte.jpg"
 infotext = "Si tu as plusieurs crédits, tu pourrais être tenté par un regroupement de crédits.\n\nLe regroupement de crédits te donne la possibilité de rembourser plusieurs dettes et/ou crédits en cours en concluant un nouveau crédit unique.\n\n_Que dit la Pub ?_\n\n_“Réunir vos crédits afin de ne payer qu'une seule mensualité ?”, “Allégez vos mensualités et rééquilibrer votre budget ?”, “Envie de diminuer vos charges ?” “Des difficultés à joindre les deux bouts ? Pensez au regroupement de crédit !”_\n\nLes arguments des prêteurs peuvent être très convaincants. Tu ne paies plus qu’une seule mensualité, ce qui peut être plus simple à gérer puisque tu n’as plus qu’un seul interlocuteur. Tu peux demander une mensualité allégée par rapport à ce que tu payais en cumulant tes autres crédits. L’impact sur le budget est donc visible immédiatement. Tu évites également de cumuler des retards de paiement_._"
 titre = "Le regroupement de crédit"
 [[blockinfo]]
-darktext = ""
+darktext = "Même si tu es en possession de la voiture, elle appartient en fait toujours au vendeur. Dès lors, si tu ne rembourses pas ton crédit, le vendeur pourrait la reprendre pour la revendre et récupérer son argent."
 image = ""
 infotext = "Si tu ne rembourses pas ton ou tes crédits, le prêteur a plusieurs moyens pour récupérer son argent. \n\n**La clause de réserve de propriété**\n\nSouvent, lorsque tu signes un crédit pour financer un bien comme une voiture, tu signes également ce qu’on appelle une clause de réserve de propriété. \n\nCette clause retarde le transfert de propriété de la voiture jusqu’au moment du paiement complet du prix."
 titre = "Quels sont les risques si tu ne parviens pas à rembourser ?"
