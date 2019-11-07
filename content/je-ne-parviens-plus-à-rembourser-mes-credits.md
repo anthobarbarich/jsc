@@ -20,19 +20,9 @@ image = ""
 infotext = "Si malgré toutes tes démarches, ta situation financière ne s’améliore pas et que tu n’arrives pas à rembourser tes dettes à temps, rends rapidement visite à un service de médiation de dettes. Celui du CPAS de ta commune ou d’une association, par exemple.\n\nLa médiation de dettes va t’aider à éclaircir ta situation pour que tu puisses rembourser tes dettes, tout en te permettant de mener une vie décente.\n\nTu pourras présenter ta situation à un travailleur social expérimenté et poser toutes tes questions.\n\nCe service fera le point sur ton budget et ta situation financière et pourra prendre contact avec tes créanciers dans le but de leur proposer, si possible, un remboursement échelonné des dettes, voire un rééchelonnement de tes crédits.\n\nLorsqu’aucune solution amiable ne peut être trouvée, le service de médiation de dettes pourra t’aider à introduire une procédure judiciaire de règlement collectif de dettes."
 titre = "Demande l’aide d’un service de médiation de dettes"
 [[blockinfo]]
-darktext = "En Wallonie : [http://actionsociale.wallonie.be/lutte-surendettement/services-mediation-dettes](http://actionsociale.wallonie.be/lutte-surendettement/services-mediation-dettes \"http://actionsociale.wallonie.be/lutte-surendettement/services-mediation-dettes\") ou 1718 (numéro gratuit)\n\nÀ Bruxelles : www.mediationdedettes.be ou au 02/217.88.05"
+darktext = ""
 image = ""
-infotext = ""
+infotext = "En Wallonie : [cliquez ici]( http://actionsociale.wallonie.be/lutte-surendettement/services-mediation-dettes) ou appelez le 1718 (numéro gratuit)\n\nÀ Bruxelles: [cliquez ici](http://www.mediationdedettes.be/Ou-trouver-un-service-de-mediation-de-dettes) ou appelez le 02/217.88.05"
 titre = "Où trouver un service de médiation de dettes proche de chez toi ?"
-[[blockinfo]]
-darktext = ""
-image = ""
-infotext = "Retrouve ici toutes les ressources dont tu as besoin pour tout savoir sur le crédit !\n\nAccède à nos brochures, vidéos et autres documents pour tout savoir sur les différents types de crédits, les services de médiation de dettes.\n\nTélécharger ici XXXXX"
-titre = "Nos supports d’information"
-[[blockinfo]]
-darktext = ""
-image = ""
-infotext = "Les partenaires de la Journée sans Crédit"
-titre = "Qui sommes-nous ?"
 
 +++
