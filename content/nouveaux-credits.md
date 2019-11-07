@@ -30,6 +30,11 @@ image = ""
 infotext = "Souvent, lorsque tu signes un contrat de crédit, tu signes également ce qu’on appelle un acte de cession de rémunération.\n\nLe prêteur n’aura pas besoin d’un jugement"
 titre = "Quels sont les risques si tu ne parviens pas à rembourser ? La cession sur rémunération"
 [[blockinfo]]
+darktext = "En d’autres termes, le prêteur va pouvoir saisir tes biens (comme ta voiture, ta maison ou tes meubles) et ton argent (comme ton compte bancaire ou ton salaire). Effectuée par un huissier de justice, la saisie engendre énormément de frais. Il est donc préférable de trouver une solution avec la banque ou l'huissier de justice avant d’arriver jusqu’à ce stade."
+image = ""
+infotext = "Si tu ne rembourses pas ton crédit, après les courriers de rappel et de mise en demeure, le prêteur peut aussi te citer en justice afin d’obtenir ce qu’on appelle un titre exécutoire.\n\nGrâce à ce titre exécutoire, le prêteur va pouvoir procéder à une saisie-exécution."
+titre = "Quels sont les risques si tu ne parviens pas à rembourser ? La saisie"
+[[blockinfo]]
 darktext = "Rien ne garantit que la voiture aura toujours la valeur de cette dernière mensualité. Tu n'es donc pas à l'abri d'une belle surprise...  \n  \nSi tu rends la voiture pour ne pas payer le « ballon », il faudra qu’elle soit en super bon état, sinon **les frais de réparations te seront réclamés** (y compris pour des rayures ou des simples bosses).  \n  \n**Et ce n’est pas tout …** il peut y avoir encore des frais en plus à la fin du contrat. Souvent les contrats ne prévoient qu’un kilométrage assez limité et tout kilomètre supplémentaire te sera facturé en plus à la fin.  \n  \nAttention dans certains contrats, il n’est pas possible de restituer la voiture à la fin et il faudra toujours payer le ballon !  \n  \nSeule porte de sortie si tu n’arrives pas à rembourser le ballon et les frais … un nouveau crédit et … en avant la spirale du surendettement."
 image = "/uploads/echec-.jpg"
 infotext = "Le crédit ballon peut se présenter sous différentes formules, mais le principe reste le même : **tu payes une mensualité moins élevée** que le prêt à tempérament. Par contre, **tu devras rembourser une dernière mensualité bien plus élevée appelée « le ballon »**. Si tu n’arrives pas à rembourser cette dernière mensualité, tu pourras (parfois) restituer le véhicule"
