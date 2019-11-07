@@ -40,11 +40,6 @@ image = "/uploads/Distrib.jpg"
 infotext = "Que dit la pub ?\n\n\"_Nul besoin de te déplacer jusqu'à la banque, le concessionnaire se chargera d'établir avec toi le contrat de crédit voiture qu'il te faut, et ce pour pas 1€ de plus !  \n‍  \nLe fait d'emprunter chez le concessionnaire permet un gain de temps considérable, et le tout souvent avec un taux à 0%_\"."
 titre = "UN CRÉDIT DE SON SALON, C'EST POSSIBLE?"
 [[blockinfo]]
-darktext = "**Attention au coût de l’assurance ou des autres produits qu’on va te proposer !!!**\n\nBien souvent le concessionnaire de voitures ou le banquier voudra te vendre une assurance solde restant dû ; une assurance auto ; une assurance assistance, etc.\n\n**Hormis pour** [**l’assurance responsabilité**](https://www.wikifin.be/fr/thematiques/assurer/assurance-vehicules/votre-assurance-auto-en-bref/cest-quoi) **civile  (pour ton véhicule), ces autres assurances ne sont pas obligatoires.** Et ces produits sont souvent beaucoup plus chers quand on les prend chez le concessionnaire ou chez le prêteur. \n\nSache que **tu peux toujours choisir de te faire assurer ailleurs auprès d’une compagnie d’assurance ou d’un courtier d’assurance.**\n\n> Il ne faut donc souscrire que les assurances qui t’intéressent vraiment et dont tu as besoin. Tu pourras choisir le meilleur prix si tu compares les assurances à plusieurs endroits. \n\nPour en savoir plus sur les assurances, clique[ ici.](https://www.wikifin.be/fr/thematiques/assurer/questions-cle/lassurance)"
-image = ""
-infotext = ""
-titre = "Que vas-tu réellement payer pour ta voiture ?"
-[[blockinfo]]
 darktext = "**Le TAEG c’est quoi ?**\n\nLe TAEG (Taux annuel effectif global) est un taux d’intérêt (%) qui est calculé selon une manière déterminée par la loi. Le TAEG est calculé à partir de tous les frais liés au crédit : intérêts mensuels et frais. Il prend donc en compte tout ce qui coûte de l’argent lorsque tu contractes un crédit. \n\nLe TAEG est donc un bon indicateur pour comparer le coût des crédits.\n\n**Attention à la durée du crédit** \n\n**La durée des prêts que l’on te propose pour une voiture varie en général de 2 à 5 ans.** \n\nLa durée doit être réfléchie en fonction de ta situation personnelle ainsi que de l’état général de la voiture que tu désires acheter. \n\nPar exemple, souscrire un crédit d’une durée de 5 ans pour acquérir une vieille voiture d’occasion peut présenter un risque financier important si la voiture doit être remplacée avant la fin de ton prêt. \n\nIl faut savoir aussi que plus le crédit est long plus il est cher !\n\n**_Exemple_**\n\nPour un crédit de 12.000 € avec un TAEG de 12 % :\n\nTu peux rembourser \n\n* 312 € pendant 48 mois \n* ou 263 € pendant 60 mois\n\n**Avec la mensualité de 263 €, tu seras lié pendant 12 mois de plus et tu rembourseras en fin de compte 793 € d’intérêts en plus.**"
 image = ""
 infotext = "**La mensualité** et **le TAEG** sont de bonnes indications et te permettent de comparer les prix. \n\nIl faudra prendre également en compte **la durée du crédit** (plus c’est long, plus c’est cher !).\n\nAttention aussi au **coût des assurances** ou des autres produits connexes qu’on va te proposer !!!"
@@ -59,6 +54,11 @@ darktext = ""
 image = ""
 infotext = ""
 titre = "Est-ce que tu peux faire marche arrière ? "
+[[blockinfo]]
+darktext = "**Attention au coût de l’assurance ou des autres produits qu’on va te proposer !!!**\n\nBien souvent le concessionnaire de voitures ou le banquier voudra te vendre une assurance solde restant dû ; une assurance auto ; une assurance assistance, etc.\n\n**Hormis pour** [**l’assurance responsabilité**](https://www.wikifin.be/fr/thematiques/assurer/assurance-vehicules/votre-assurance-auto-en-bref/cest-quoi) **civile  (pour ton véhicule), ces autres assurances ne sont pas obligatoires.** Et ces produits sont souvent beaucoup plus chers quand on les prend chez le concessionnaire ou chez le prêteur.\n\nSache que **tu peux toujours choisir de te faire assurer ailleurs auprès d’une compagnie d’assurance ou d’un courtier d’assurance.**\n\n> Il ne faut donc souscrire que les assurances qui t’intéressent vraiment et dont tu as besoin. Tu pourras choisir le meilleur prix si tu compares les assurances à plusieurs endroits.\n\nPour en savoir plus sur les assurances, clique[ ici.](https://www.wikifin.be/fr/thematiques/assurer/questions-cle/lassurance)"
+image = ""
+infotext = ""
+titre = "Que vas-tu réellement payer pour ta voiture ?"
 
 +++
 {{<tableau>}}
