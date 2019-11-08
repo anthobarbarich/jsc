@@ -139,7 +139,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 		{{ range .Params.blockinfo }}
       <div class="colblocks">
-        <div class="block-50">
+        <div class="block-50" {{with .reference}}id="{{.}}"{{end}}>
           <h2 class="headingcorps">{{.titre}}</h2>
           <p class="paragraph">{{.infotext | markdownify}}</h4></h4></p>
 	  
