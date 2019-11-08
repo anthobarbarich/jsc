@@ -20,6 +20,13 @@ a {
 strong {
 color: #ea4e57;
   }
+/*link adaptation*/
+
+  a {
+    color: #ea4e57;
+    text-decoration: underline;
+  }
+
 /*Illustration*/
 img[src*="consonew"]{
   margin-right: 10%;
