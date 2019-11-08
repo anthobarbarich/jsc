@@ -57,6 +57,9 @@ fields:
       schema:
         format: markdown
     label: Texte "clair"
+  -name: reference
+    type: textarea
+    default: ''
   - name: darktext
     type: textarea
     default: ''
@@ -73,7 +76,6 @@ fields:
   label: Bloc Info
 pages:
 - content/credit-consommation.md
-- content/je-ne-parviens-plus-à-rembourser-mes-credits.md
-- content/nouveaux-credits.md
-- content/un-ou-plusieurs-crédits.md
 - content/credit-voiture.md
+- content/nouveaux-credits.md
+- content/je-ne-parviens-plus-à-rembourser-mes-credits.md
