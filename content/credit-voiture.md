@@ -61,7 +61,7 @@ titre = "LE CREDIT A 0 % ?  "
 [[blockinfo]]
 darktext = ""
 image = ""
-infotext = ""
+infotext = "|Pour le crédit|Pour la voiture achetée au salon de l’auto ou en dehors des locaux du concessionnaire |Pour la voiture achetée chez le concessionnaire\n\n|--|--|--|\n\n|Oui. Tu as 14 jours calendrier (à partir de la signature du contrat de crédit) pour changer d’avis. Il te suffit d’envoyer une lettre recommandée au prêteur dont tu trouveras les coordonnées sur le contrat de crédit.|Oui. Tu as 14 jours (à dater de la signature). Il te suffit d’envoyer une lettre recommandée au vendeur dont tu trouveras les coordonnées sur le contrat. Tu n’as pas besoin de te justifier.Non. Tu seras pieds et poings liés par ce contrat d’achat de la voiture.|Et tu devras souvent payer une forte indemnité pour pouvoir te désister !"
 reference = ""
 titre = "Est-ce que tu peux faire marche arrière ? "
 [[blockinfo]]
