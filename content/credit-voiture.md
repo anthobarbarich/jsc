@@ -5,7 +5,7 @@ introtext = "Il existe différents types de crédits et offres pour te procurer 
 kredpic = "/uploads/kredcar-1.svg"
 title = "Crédit Voiture"
 [[blockinfo]]
-darktext = "Finalement, cela te coûtera **plusieurs centaines d’euros par mois** .\n\nLe coût exact dépendra de la voiture en elle-même et de l’utilisation que tu en feras.\n\nPour en savoir plus sur le coût {{% tableau %}}"
+darktext = "Finalement, cela te coûtera **plusieurs centaines d’euros par mois** .\n\nLe coût exact dépendra de la voiture en elle-même et de l’utilisation que tu en feras.\n\nPour en savoir plus sur le coût {{< tableau >}}"
 image = ""
 infotext = "Avant de prendre une décision, la première question est d’évaluer le coût d’une voiture à l’achat et à l’utilisation.\n\nUne voiture coûte cher. Vérifie avant tout que tu sauras en assumer les frais : taxe de mise en circulation, taxe de circulation annuelle, assurances, entretiens, réparations, essence, frais de parking, etc."
 reference = ""
