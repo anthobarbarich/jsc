@@ -66,6 +66,12 @@ fields:
       schema:
         format: markdown
     label: Texte "Dark"
+  - name: reference
+    type: text
+    config:
+      required: false
+    label: reference
+    description: reference du bloc de contenu pour lien interne
   config:
     min: 
     max: 
