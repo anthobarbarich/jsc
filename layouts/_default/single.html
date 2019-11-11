@@ -132,7 +132,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <br>
       </div>
     </div>
+	  
+	
     {{ range .Params.blockinfo }}
+	  
+	  {{ if .image }} 
     <div class="colblocks">
       <div class="block-50" {{with .reference}}id="{{.}}"{{end}}>
         <h2 class="headingcorps">{{.titre}}</h2>
@@ -153,7 +157,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <!--<img src="/images/contourwhiteright.svg" width="560" alt="" class="contourwhite">--><img src="{{.image}}" width="535" alt="" class="imginfo"></div>
       </div>
     </div>
-    {{end}}
+
+    
+
+	  {{ else}} 
+    <div class="colblocks">
+      <div class="block-50" {{with .reference}}id="{{.}}"{{end}} style="width: 100%;">
+        <h2 class="headingcorps">{{.titre}}</h2>
+        <p class="paragraph">{{.infotext | markdownify}}
+          </h4>
+          </h4>
+        </p>
+        {{ with .darktext}}
+        <div class="dark truncate" style="color:white;">{{. | markdownify}}</div>
+        {{end}} </div>
+      <div class="block-50">
+       
+      </div>
+    </div>
+	{{end}}
+    
+
+{{end}}
+
+
+
     {{ .Content }} </div>
 </div>
 {{ partial "footer.html" }}
