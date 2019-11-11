@@ -1,8 +1,8 @@
 +++
 headertext = "ALORS COMME ÇA, TU CHERCHES UN **FINANCEMENT POUR UNE VOITURE?**"
-icon = "/uploads/car.svg"
+icon = "/uploads/car-1.svg"
 introtext = "Il existe différents types de crédits et offres pour te procurer la voiture de tes rêves. \n\nAvant de signer, il est intéressant de comparer les différentes formules. \n\nDécouvre les offres qui existent sur le marché et surtout leur **face cachée** !"
-kredpic = "/uploads/kredcar.svg"
+kredpic = "/uploads/kredcar-1.svg"
 title = "Crédit Voiture"
 [[blockinfo]]
 darktext = "Finalement, cela te coûtera **plusieurs centaines d’euros par mois** .\n\nLe coût exact dépendra de la voiture en elle-même et de l’utilisation que tu en feras.\n\nPour en savoir plus sur le coût clique ici"
