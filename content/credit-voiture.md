@@ -72,4 +72,3 @@ reference = ""
 titre = "Que vas-tu réellement payer pour ta voiture ?"
 
 +++
-{{< tableau >}}
