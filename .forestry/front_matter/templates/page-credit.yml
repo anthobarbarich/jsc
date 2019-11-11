@@ -57,6 +57,9 @@ fields:
       schema:
         format: markdown
     label: Texte "clair"
+  -name: reference
+    type: textarea
+    default: ''
   - name: darktext
     type: textarea
     default: ''
