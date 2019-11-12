@@ -43,6 +43,32 @@ ol, ul li {
     color: #ea4e57;
     text-decoration: underline;
   }
+/*tooltip*/
+a.tip {
+  text-decoration: none
+}
+a.tip:hover {
+  position: relative
+}
+a.tip span {
+  display: none
+}
+a.tip:hover span {
+  border: #c0c0c0 1px dotted;
+  padding: 5px 20px 5px 5px;
+  display: block;
+  z-index: 100;
+  background: url(../images/status-info.png) #f0f0f0 no-repeat 100% 5%;
+  left: 0px;
+  margin: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  width: 400px;
+  position: absolute;
+  top: 14px;
+  text-decoration: none
+}
+
 
 /*Illustration*/
 img[src*="consonew"]{
@@ -1120,6 +1146,24 @@ cursor: pointer;
 }
 
 @media only screen and (min-width : 321px) and (max-width : 640px) {
+/*tooltip*/
+
+a.tip:hover span {
+  border: #c0c0c0 1px dotted;
+  padding: 5px 20px 5px 5px;
+  display: block;
+  z-index: 100;
+  background: url(../images/status-info.png) #f0f0f0 no-repeat 100% 5%;
+  left: 0px;
+  margin: 10px 0px;
+  font-size: 16px;
+  font-weight: bold;
+  width: 290px;
+  position: relative;
+  top: -6px;
+  text-decoration: none
+}
+
 #tableModal.modal{
     margin: 10% 2.5%;
     width: 95%;
@@ -1349,6 +1393,23 @@ padding: 0% 0% 4% 0%;
 }
 }
 @media only screen and (min-width : 768px) and (max-width : 1366px) {
+  /*tooltip*/
+  a.tip:hover span {
+    border: #c0c0c0 1px dotted;
+    padding: 5px 20px 5px 5px;
+    display: block;
+    z-index: 100;
+    background: url(../images/status-info.png) #f0f0f0 no-repeat 100% 5%;
+    left: 0px;
+    margin: 10px 0px;
+    font-size: 16px;
+    font-weight: bold;
+    width: 650px;
+    position: relative;
+    top: -6px;
+    /* height: 300px; */
+    text-decoration: none
+  }
   .container-2.w-container {
     height: 470px;
 }
