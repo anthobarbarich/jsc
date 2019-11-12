@@ -57,9 +57,6 @@ fields:
       schema:
         format: markdown
     label: Texte "clair"
-  -name: reference
-    type: textarea
-    default: ''
   - name: darktext
     type: textarea
     default: ''
@@ -69,13 +66,19 @@ fields:
       schema:
         format: markdown
     label: Texte "Dark"
+  - name: reference
+    type: text
+    config:
+      required: false
+    label: reference
+    description: reference du bloc de contenu pour lien interne
   config:
     min: 
     max: 
     labelField: 
   label: Bloc Info
 pages:
-- content/credit-consommation.md
 - content/credit-voiture.md
 - content/nouveaux-credits.md
+- content/credit-consommation.md
 - content/je-ne-parviens-plus-à-rembourser-mes-credits.md

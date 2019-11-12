@@ -19,7 +19,24 @@ a {
 }
 strong {
 color: #ea4e57;
+	font-weight: 900;
   }
+
+ol, ul {
+    font-size: 25px;
+    line-height: normal;
+	font-weight:bolder;
+	margin-bottom: 30px;
+	
+}
+
+ol, ul li {
+	font-weight:300;
+	margin-top:10px;
+	font-size: 19px;
+}
+
+
 /*link adaptation*/
 
   a {
