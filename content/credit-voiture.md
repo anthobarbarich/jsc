@@ -67,7 +67,7 @@ titre = "Est-ce que tu peux faire marche arrière ? "
 [[blockinfo]]
 darktext = "**Attention au coût de l’assurance ou des autres produits qu’on va te proposer !!!**\n\nBien souvent le concessionnaire de voitures ou le banquier voudra te vendre une assurance solde restant dû ; une assurance auto ; une assurance assistance, etc.\n\n**Hormis pour** [**l’assurance responsabilité**](https://www.wikifin.be/fr/thematiques/assurer/assurance-vehicules/votre-assurance-auto-en-bref/cest-quoi) **civile  (pour ton véhicule), ces autres assurances ne sont pas obligatoires.** Et ces produits sont souvent beaucoup plus chers quand on les prend chez le concessionnaire ou chez le prêteur.\n\nSache que **tu peux toujours choisir de te faire assurer ailleurs auprès d’une compagnie d’assurance ou d’un courtier d’assurance.**\n\n> Il ne faut donc souscrire que les assurances qui t’intéressent vraiment et dont tu as besoin. Tu pourras choisir le meilleur prix si tu compares les assurances à plusieurs endroits.\n\nPour en savoir plus sur les assurances, clique[ ici.](https://www.wikifin.be/fr/thematiques/assurer/questions-cle/lassurance)"
 image = ""
-infotext = ""
+infotext = "Pour en savoir plus <span id=\"modalCTA\"><a onclick=\"openModal();\" class=\"hover-shadow\">clique ici</a></span>"
 reference = ""
 titre = "Que vas-tu réellement payer pour ta voiture ?"
 
