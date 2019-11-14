@@ -48,6 +48,31 @@ ol, ul li {
 img[src*="consonew"]{
   margin-right: 10%;
 }
+
+	/*tooltip*/
+
+a.tip:hover {
+  position: relative
+}
+a.tip span {
+  display: none
+}
+a.tip:hover span {
+  border: #c0c0c0 1px dotted;
+  padding: 5px 20px 5px 5px;
+  display: block;
+  z-index: 100;
+  background: url(../images/status-info.png) #f0f0f0 no-repeat 100% 5%;
+  left: 0px;
+  margin: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  width: 400px;
+  position: absolute;
+  top: 14px;
+  text-decoration: none
+}
+
 /* Lightbox*/
   tr {
     height: 40px;
@@ -1119,8 +1144,28 @@ text-decoration: none;
 cursor: pointer;
 }
 
-@media only screen and (min-width : 321px) and (max-width : 640px) {
-#tableModal.modal{
+@media only screen and (min-width : 300px) and (max-width : 640px) {
+/*tooltip*/
+
+a.tip:hover span {
+  border: #c0c0c0 1px dotted;
+  padding: 5px 20px 5px 5px;
+  display: block;
+  z-index: 100;
+  background: url(../images/status-info.png) #f0f0f0 no-repeat 100% 5%;
+  left: 0px;
+  margin: 10px 0px;
+  font-size: 16px;
+  font-weight: bold;
+  width: 100%;
+  position: relative;
+  top: -6px;
+  text-decoration: none
+}
+
+	
+	
+	#tableModal.modal{
     margin: 10% 2.5%;
     width: 95%;
 } 
