@@ -3,7 +3,7 @@ type: info
 headertext: RETROUVE ICI TOUTES LES RESSOURCES DONT TU AS BESOIN POUR TOUT SAVOIR
   SUR LE CRÉDIT !
 linkblock:
-- name: les recommandations 2019 de la Journée sans crédit
+- name: Les recommandations 2019 de la Journée sans crédit
   image: ''
   description: ''
   link: ''
