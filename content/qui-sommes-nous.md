@@ -16,6 +16,6 @@ linkblock:
     au crédit facile** et d’autre part de **formuler des recommandations destinées
     aux pouvoirs politiques afin d’améliorer la protection des consommateurs, et de
     lutter plus efficacement contre le surendettement**."
-  link: ''
+  link: www.journeesanscredit.be
 
 ---
