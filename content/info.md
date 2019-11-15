@@ -11,7 +11,7 @@ linkblock:
 - name: Les brochures d'information
   image: ''
   description: ''
-  link: https://www.journeesanscredit.be/index.php
+  link: ''
   fichier: "/uploads/test.pdf"
 - name: La page Facebook
   image: ''
