@@ -78,7 +78,7 @@ fields:
     labelField: 
   label: Bloc Info
 pages:
+- content/credit-consommation.md
 - content/credit-voiture.md
 - content/je-ne-parviens-plus-à-rembourser-mes-credits.md
-- content/credit-consommation.md
 - content/nouveaux-credits.md
