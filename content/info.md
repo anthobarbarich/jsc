@@ -3,7 +3,7 @@ type: info
 headertext: RETROUVE ICI TOUTES LES RESSOURCES DONT TU AS BESOIN POUR TOUT SAVOIR
   SUR LE CRÉDIT !
 linkblock:
-- name: 'Les brochures et les recommandations '
+- name: Les brochures d'information
   image: ''
   description: ''
   link: https://www.journeesanscredit.be/index.php
