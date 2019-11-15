@@ -3,14 +3,6 @@ type: info
 headertext: RETROUVE ICI TOUTES LES RESSOURCES DONT TU AS BESOIN POUR TOUT SAVOIR
   SUR LE CRÉDIT !
 linkblock:
-- name: La page Facebook
-  image: ''
-  description: ''
-  link: ''
-- name: Les recommandations 2019 de la Journée sans crédit
-  image: ''
-  description: ''
-  link: ''
 - name: Les vidéos de la campagne
   image: ''
   description: ''
@@ -19,6 +11,14 @@ linkblock:
   image: ''
   description: ''
   link: https://www.journeesanscredit.be/index.php
+- name: La page Facebook
+  image: ''
+  description: ''
+  link: ''
+- name: Les recommandations 2019 de la Journée sans crédit
+  image: ''
+  description: ''
+  link: ''
 - name: Le site de la Journée Sans Crédit
   image: "/uploads/jsc.png"
   description: La journée sans crédit est une plateforme organisée par 31 associations
