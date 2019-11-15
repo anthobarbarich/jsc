@@ -7,18 +7,22 @@ linkblock:
   image: ''
   description: ''
   link: ''
+  fichier: ''
 - name: Les brochures d'information
   image: ''
   description: ''
   link: https://www.journeesanscredit.be/index.php
+  fichier: "/uploads/test.pdf"
 - name: La page Facebook
   image: ''
   description: ''
   link: ''
+  fichier: ''
 - name: Les recommandations 2019 de la Journée sans crédit
   image: ''
   description: ''
   link: ''
+  fichier: ''
 - name: Le site de la Journée Sans Crédit
   image: "/uploads/jsc.png"
   description: La journée sans crédit est une plateforme organisée par 31 associations
@@ -26,6 +30,7 @@ linkblock:
     aux dangers du crédit facile et de formuler des recommandations aux pouvoirs publics
     pour améliorer la protection des consommateurs les plus fragilisés.
   link: https://www.journeesanscredit.be/
+  fichier: ''
 title: Nos supports d’information
 
 ---
