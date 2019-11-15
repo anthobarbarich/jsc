@@ -940,6 +940,8 @@ transform: rotate(-450deg);
 
 .linkressources {
   width: 100%;
+	text-decoration: none;
+	
 }
 
 .linkinliens {
