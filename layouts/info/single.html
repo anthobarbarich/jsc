@@ -51,8 +51,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <div class="w-container">
   <div class="_01 ressource" data-ix="appearload-body">
-    <div class="w-container">{{ range .Params.linkblock }}
-      <a href="{{.link}}" class="linkressources w-inline-block">
+    <div class="w-container">
+		
+		{{ range .Params.linkblock }}
+		{{ if .fichier}}
+      <a href="{{.fichier}}" class="linkressources w-inline-block">
         <div class="colliens w-row">
           <div class="column-7 w-col w-col-4"><img src="{{.image}}" sizes="100vw" alt=""></div>
           <div class="column-6 w-col w-col-8">
@@ -61,7 +64,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="linkinliens">Accéder ici</div>
           </div>
         </div>
-      </a>{{end}}
+      </a>
+		{{ else}}
+		    <a href="{{.link}}" class="linkressources w-inline-block">
+        <div class="colliens w-row">
+          <div class="column-7 w-col w-col-4"><img src="{{.image}}" sizes="100vw" alt=""></div>
+          <div class="column-6 w-col w-col-8">
+            <h3 class="headingtinro ressources">{{.name}}</h3>
+            <p class="paragraph">{{.description  | markdownify}}</p>
+            <div class="linkinliens">Accéder ici</div>
+          </div>
+        </div>
+      </a>
+		
+		{{end}}{{end}}
+		
+		
+		
+		
 	  </div>
   </div>
 		
