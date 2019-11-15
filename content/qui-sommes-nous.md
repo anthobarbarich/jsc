@@ -1,7 +1,7 @@
 ---
 type: info
 title: 'Qui Sommes-Nous ? '
-headertext: La plateforme Journée sans crédit
+headertext: Les partenaires de la plateforme Journée sans crédit
 linkblock:
 - name: La plateforme Journée sans crédit
   image: ''
