@@ -19,7 +19,7 @@ linkblock:
   image: ''
   description: ''
   link: https://www.journeesanscredit.be/index.php
-- name: La Journée Sans Crédit
+- name: Le site de la Journée Sans Crédit
   image: "/uploads/jsc.png"
   description: La journée sans crédit est une plateforme organisée par 31 associations
     francophones et néerlandophones, elle a pour objectifs de sensibiliser les consommateurs
