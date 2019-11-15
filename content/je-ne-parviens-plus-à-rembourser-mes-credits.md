@@ -13,7 +13,7 @@ titre = "Fais le point sur tes comptes"
 [[blockinfo]]
 darktext = "Le prêteur va peut-être te présenter le regroupement de crédits comme étant la solution à ton surendettement, mais c'est rarement le cas. \n\nPour en savoir plus, clique ici"
 image = ""
-infotext = "Évite à tout prix d’emprunter pour rembourser d’autres crédits et/ou tes dettes. Tes difficultés à rembourser tes crédits en cours ne vont pas disparaître en empruntant encore plus !\n\nSi tu as l’intention de contracter un crédit, n’emprunte pas plus que nécessaire. \n\nEt si l’on te propose d’augmenter ta ligne de crédit, réfléchis si tu en as vraiment besoin.\n\n**D'autres solutions sont possibles** comme la médiation de dettes ou le règlement collectif de dettes."
+infotext = "Évite à tout prix d’emprunter pour rembourser d’autres crédits et/ou tes dettes. Tes difficultés à rembourser tes crédits en cours ne vont pas disparaître en empruntant encore plus !\n\nSi tu as l’intention de contracter un crédit, n’emprunte pas plus que nécessaire.\n\nEt si l’on te propose d’augmenter ta ligne de crédit, réfléchis si tu en as vraiment besoin.\n\n**D'autres solutions sont possibles** comme la [médiation de dettes](#SMD) ou le règlement collectif de dettes."
 reference = ""
 titre = "N'emprunte pas plus !"
 [[blockinfo]]
