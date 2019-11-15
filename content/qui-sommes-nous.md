@@ -13,6 +13,6 @@ linkblock:
     **L’objectif de la plateforme Journée sans crédit est double** : il s’agit d’une part de **sensibiliser le public aux risques liés au crédit facile** et d’autre part de **formuler des recommandations destinées aux pouvoirs politiques afin d’améliorer la protection des consommateurs, et de lutter plus efficacement contre le surendettement**.
 
     Pour en savoir plus, cliquez [**ici**](www.journeesanscredit.be)
-  link: ''
+  link: www.journeesanscredit.be
 
 ---
