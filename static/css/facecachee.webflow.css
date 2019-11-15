@@ -371,8 +371,9 @@ font-size: 1em;}
 }
 
 .dropdown {
-  font-family: 'Sharp grotesk 20', sans-serif;
-  color: #fff;
+    font-family: 'Sharp grotesk 20', sans-serif;
+    color: #fff;
+    display: inherit;
 }
 
 .ddlink {
@@ -408,28 +409,18 @@ font-size: 1em;}
   background-color: #222121;
 }
 
-.grid {
-  -ms-grid-columns: 1fr 1.75fr 1fr;
-  grid-template-columns: 1fr 1.75fr 1fr;
-  -ms-grid-rows: 1fr auto auto;
-  grid-template-rows: 1fr auto auto;
-}
 
-.container {
-  display: -ms-grid;
-  display: grid;
-  grid-auto-columns: 1fr;
-  grid-column-gap: 16px;
-  grid-row-gap: 16px;
-  -ms-grid-columns: 1fr 1fr 1fr;
-  grid-template-columns: 1fr 1fr 1fr;
-  -ms-grid-rows: auto;
-  grid-template-rows: auto;
-}
 
 .columns {
   position: relative;
   z-index: 4;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	-moz-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	-o-flex-wrap: wrap;
+	flex-wrap: wrap;
+	align-items: center;
 }
 
 .bottomwhite {
@@ -541,6 +532,7 @@ transform: rotate(-450deg);
 
 .block-50 {
 	width: 48%;
+	position: relative;
 }
 .image-2 {
   position: absolute;
@@ -853,15 +845,7 @@ transform: rotate(-450deg);
 }
 
 .image-3 {
-  position: absolute;
-  z-index: 1;
-  width: 87%;
-  max-width: 600px;
-  margin-top: -16px;
-  -webkit-align-self: start;
-  -ms-flex-item-align: start;
-  -ms-grid-row-align: start;
-  align-self: start;
+
 }
 
 .partner1 {
@@ -996,14 +980,16 @@ transform: rotate(-450deg);
 .darkhome {
   position: absolute;
   z-index: 2;
-  width: 87%;
-  max-width: 600px;
-  margin-top: -16px;
-  -webkit-align-self: start;
-  -ms-flex-item-align: start;
-  -ms-grid-row-align: start;
-  align-self: start;
   opacity: 0;
+	margin-top: 120px;
+	max-width: 125%;
+	width: 125%;
+}
+
+.kred-home {
+margin-top: 120px;
+	max-width: 125%;
+	width: 125%;
 }
 
 .imglink-copy {
@@ -1148,7 +1134,7 @@ text-decoration: none;
 cursor: pointer;
 }
 
-@media only screen and (min-width : 300px) and (max-width : 640px) {
+@media only screen and (min-width : 0px) and (max-width : 640px) {
 /*tooltip*/
 
 a.tip:hover::before {
@@ -1167,6 +1153,14 @@ a.tip:hover::before {
   text-decoration: none
 }
 
+	.kred-home {
+	width: 65%;
+		margin-top: 40px;
+}
+	.darkhome {
+	width: 65%;
+		margin-top: 40px;
+}
 	
 	
 	#tableModal.modal{
@@ -1214,18 +1208,7 @@ padding: 0% 0% 4% 0%;
   .image-3{
     width: 60%;
   }
-  .darkhome {
-    position: absolute;
-    z-index: 2;
-    width: 60%;
-    max-width: 600px;
-    margin-top: -16px;
-    -webkit-align-self: start;
-    -ms-flex-item-align: start;
-    -ms-grid-row-align: start;
-    align-self: start;
-    opacity: 0;
-  }
+
   .nav {
     padding: 10px;
   }
@@ -1397,7 +1380,7 @@ padding: 0% 0% 4% 0%;
     margin: 0px 0px 20px 0px;
 }
 }
-@media only screen and (min-width : 768px) and (max-width : 1200px) {
+@media only screen and (min-width : 640px) and (max-width : 1200px) {
   .container-2.w-container {
     height: 470px;
 }
@@ -1415,16 +1398,6 @@ padding: 0% 0% 4% 0%;
 
   img[src*="newcredits"]{
     top: 43%;
-  }
-  img[src*="darkkredimmo"]{
-    width: 50%;
-    margin-top: -92px;
-    margin-left: 39%;
-  }
-  img[src*="immo2"]{
-    width: 50%;
-    margin-top: -92px;
-    margin-left: 39%;
   }
   img[src*="kredcar"]{
     top: 60%;
@@ -1496,10 +1469,6 @@ padding: 0% 0% 4% 0%;
     right: -10px;
     /* left: 22px; */
   }
-  .w-col.w-col-6.column-X {
-    WIDTH: 90%;
-    margin: -35% 5%;
-}
   .nav {
     position: absolute;
     left: 0px;
@@ -1521,11 +1490,8 @@ padding: 0% 0% 4% 0%;
     position: relative;
     top: 52%;
   }
-  .dropdown-toggle {
-    width: 376.296875px;
-    margin-left: 27%;
-    margin-top: 18%;
-  }
+
+
   .subheadline {
     display: inline-block;
     margin-top: 18px;
