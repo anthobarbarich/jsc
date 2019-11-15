@@ -3,12 +3,10 @@ type: info
 headertext: RETROUVE ICI TOUTES LES RESSOURCES DONT TU AS BESOIN POUR TOUT SAVOIR
   SUR LE CRÉDIT !
 linkblock:
-- name: NOS DOCUMENTS OFFICIELS
-  image: "/uploads/logotest-p-500.jpeg"
-  description: Accédez à nos brochures, infographies interactives et autres documents
-    pour tout savoir sur les différents types de crédits, les infrastructures d'accompagnement
-    et la médiation de dettes;
-  link: ''
+- name: 'Les brochures et les recommandations '
+  image: ''
+  description: ''
+  link: https://www.journeesanscredit.be/index.php
 - name: La Journée Sans Crédit
   image: "/uploads/jsc.png"
   description: La journée sans crédit est une plateforme organisée par 31 associations
