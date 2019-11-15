@@ -29,9 +29,9 @@ infotext = "Si la banque n’est pas certaine que tu rembourseras ton crédit, e
 reference = ""
 titre = "Quels sont les risques si tu ne parviens pas à rembourser ? La sûreté réelle ou cautionnement"
 [[blockinfo]]
-darktext = "En signant cet acte, tu autorises en fait le prêteur à percevoir directement la partie saisissable de tes revenus auprès de ton employeur ou de ton organisme de paiement si tu ne rembourses pas ton crédit comme prévu."
+darktext = "En signant cet acte, tu autorises le prêteur à **percevoir directement la partie saisissable** de tes revenus auprès de ton employeur (ou de ton organisme de paiement : le chômage, la mutuelle, etc) si tu ne rembourses pas ton crédit comme prévu.\n\nLe prêteur n’aura pas besoin d’un jugement"
 image = ""
-infotext = "Souvent, lorsque tu signes un contrat de crédit, tu signes également ce qu’on appelle un acte de cession de rémunération.\n\nLe prêteur n’aura pas besoin d’un jugement"
+infotext = "Lorsque tu signes un contrat de crédit, le prêteur va te demander de signer également ce qu’on appelle **un acte de cession de rémunération.**"
 reference = ""
 titre = "Quels sont les risques si tu ne parviens pas à rembourser ? La cession sur rémunération"
 [[blockinfo]]
