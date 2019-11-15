@@ -1,10 +1,7 @@
 ---
 type: info
 title: 'Qui Sommes-Nous ? '
-headertext: 'Fondée en 2005, la plateforme de la Journée sans Crédit regroupe aujourd''hui
-  une trentaine d’organisations issues du Nord et du Sud du pays.   Elles ont toutes
-  en commun la lutte contre le surendettement et la pauvreté, notamment via l’éducation
-  permanente. '
+headertext: La plateforme Journée sans crédit
 linkblock:
 - name: La plateforme Journée sans crédit
   image: ''
