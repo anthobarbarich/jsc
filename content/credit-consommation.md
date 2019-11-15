@@ -17,9 +17,9 @@ infotext = "Que dit la pub ?\n\n_« Location de voiture, Uber, achats en ligne .
 reference = "OC"
 titre = "La carte de crédit"
 [[blockinfo]]
-darktext = ""
+darktext = "Dans la plupart des cas, **il s’agit d’une ouverture de crédit.**\n\n**Ce crédit est très cher**, ne l’utilise qu’en cas de manque d’argent temporaire que tu pourras rapidement rembourser.\n\nClique [ici ](#OC) pour en savoir plus et connaître les risques."
 image = ""
-infotext = "Ta banque peut t’autoriser à descendre en dessous de zéro sur ton compte en banque. Dans la plupart des cas, il s’agit aussi d’une ouverture de crédit.\n\nComme ce crédit est très cher, ne l’utilise qu’en cas de manque d’argent temporaire que tu pourras rapidement rembourser. \n\nClique ici  pour en savoir plus et connaître les risques."
+infotext = "Ta banque peut t’autoriser à descendre en dessous de zéro sur ton compte en banque. "
 reference = ""
 titre = "Le découvert sur ton compte en banque"
 [[blockinfo]]
