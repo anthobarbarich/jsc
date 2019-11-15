@@ -11,9 +11,9 @@ infotext = "###### **Suivre tes dépenses est la clé pour une bonne gestion de 
 reference = "#budget"
 titre = "Fais le point sur tes comptes"
 [[blockinfo]]
-darktext = ""
+darktext = "Le prêteur va peut-être te présenter le regroupement de crédits comme étant la solution à ton surendettement, mais c'est rarement le cas. \n\nPour en savoir plus, clique ici"
 image = ""
-infotext = "Évite à tout prix d’emprunter pour rembourser d’autres crédits et/ou tes dettes. Tes difficultés à rembourser tes crédits en cours ne vont pas disparaître en empruntant plus ! \n\nSi tu as l’intention de contracter un crédit, n’emprunte pas plus que nécessaire. Et si l’on te propose d’augmenter ta ligne de crédit, réfléchis si tu en as vraiment besoin. \n\nLe banquier te proposer un regroupement de crédits comme étant la solution à un surendettement, mais renseigne-toi avant de signer ."
+infotext = "Évite à tout prix d’emprunter pour rembourser d’autres crédits et/ou tes dettes. Tes difficultés à rembourser tes crédits en cours ne vont pas disparaître en empruntant encore plus !\n\nSi tu as l’intention de contracter un crédit, n’emprunte pas plus que nécessaire. \n\nEt si l’on te propose d’augmenter ta ligne de crédit, réfléchis si tu en as vraiment besoin."
 reference = ""
 titre = "N'emprunte pas plus !"
 [[blockinfo]]
