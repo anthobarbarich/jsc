@@ -11,6 +11,6 @@ linkblock:
     Elles ont toutes en commun la lutte contre le surendettement et la pauvreté, notamment via l’éducation permanente.
 
     **L’objectif de la plateforme Journée sans crédit est double** : il s’agit d’une part de **sensibiliser le public aux risques liés au crédit facile** et d’autre part de **formuler des recommandations destinées aux pouvoirs politiques afin d’améliorer la protection des consommateurs, et de lutter plus efficacement contre le surendettement**.
-  link: www.journeesanscredit.be
+  link: https://www.journeesanscredit.be/cestquoi.php
 
 ---
