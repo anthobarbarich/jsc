@@ -12,7 +12,7 @@ linkblock:
   image: ''
   description: ''
   link: ''
-  fichier: "/uploads/test.pdf"
+  fichier: "/uploads/affiche voiture Fini.pdf"
 - name: La page Facebook
   image: ''
   description: ''
