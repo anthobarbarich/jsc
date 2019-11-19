@@ -19,9 +19,9 @@ linkblock:
   link: ''
   fichier: "/uploads/affiche voiture Fini.pdf"
 - name: La page Facebook
-  image: "/uploads/logotest-1.jpg"
+  image: ''
   description: ''
-  link: https://youtu.be/ridvG8lkVuA
+  link: ''
   fichier: ''
 - name: Les recommandations 2019 de la Journée sans crédit
   image: ''
