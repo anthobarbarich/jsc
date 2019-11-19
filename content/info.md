@@ -18,8 +18,8 @@ linkblock:
   description: ''
   link: ''
   fichier: ''
-- name: Vidéo You Tube
-  image: ''
+- name: Vidéo YouTube
+  image: "/uploads/YouTube.png"
   fichier: ''
   description: ''
   link: https://youtu.be/ridvG8lkVuA
