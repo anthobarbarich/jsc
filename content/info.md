@@ -8,7 +8,7 @@ linkblock:
   fichier: "/uploads/Brochure voiture.pdf"
   description: ''
   link: ''
-- name: Brochures d'information - Médiation de dettes
+- name: Brochure d'information - Médiation de Dettes
   image: ''
   description: ''
   link: ''
