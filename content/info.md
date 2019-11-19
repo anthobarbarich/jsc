@@ -4,10 +4,10 @@ headertext: RETROUVE ICI TOUTES LES RESSOURCES DONT TU AS BESOIN POUR TOUT SAVOI
   SUR LE CRÉDIT !
 linkblock:
 - name: Vidéo You Tube
-  image: ''
+  image: "/uploads/logotest-1.jpg"
   fichier: ''
   description: ''
-  link: ''
+  link: https://youtu.be/ridvG8lkVuA
 - name: Les vidéos de la campagne
   image: ''
   description: ''
