@@ -3,11 +3,11 @@ type: info
 headertext: RETROUVE ICI TOUTES LES RESSOURCES DONT TU AS BESOIN POUR TOUT SAVOIR
   SUR LE CRÉDIT !
 linkblock:
-- name: Les vidéos de la campagne
+- name: 'Brochure d''information - Ta voiture t’emmenera... Ton crédit te suivera '
   image: ''
+  fichier: "/uploads/Brochure voiture.pdf"
   description: ''
   link: ''
-  fichier: ''
 - name: Brochures d'information - Médiation de dettes
   image: ''
   description: ''
