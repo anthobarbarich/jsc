@@ -3,11 +3,6 @@ type: info
 headertext: RETROUVE ICI TOUTES LES RESSOURCES DONT TU AS BESOIN POUR TOUT SAVOIR
   SUR LE CRÉDIT !
 linkblock:
-- name: Vidéo You Tube
-  image: "/uploads/logotest-1.jpg"
-  fichier: ''
-  description: ''
-  link: https://youtu.be/ridvG8lkVuA
 - name: Les vidéos de la campagne
   image: ''
   description: ''
@@ -23,6 +18,11 @@ linkblock:
   description: ''
   link: ''
   fichier: ''
+- name: Vidéo You Tube
+  image: "/uploads/logotest-1.jpg"
+  fichier: ''
+  description: ''
+  link: https://youtu.be/ridvG8lkVuA
 - name: Les recommandations 2019 de la Journée sans crédit
   image: ''
   description: ''
