@@ -57,7 +57,9 @@ linkblock:
     qui se fait déjà en France).\n8. Améliorer l’information du consommateur en ce
     qui concerne son droit de rétractation dans le cadre du crédit (à l’instar de
     ce qui se fait déjà en France).\n9. Améliorer le fichier de la Centrale des crédits
-    aux particuliers (CCP)."
+    aux particuliers (CCP).\n\n**Contact pour les recommandations**\n\nAnne Defossez\n\nCentre
+    d’Appui-Médiation de Dettes - Bvd du Jubilé, 155 à 1080 Bruxelles\n\nMail : a.defossez@mediationdedettes.be\n\nTél
+    : 02/217.88.06"
   link: ''
   fichier: "/uploads/Recommandation 2019.pdf"
 - name: 'Brochure d''information - Ta voiture t’emmènera... Ton crédit te suivera '
