@@ -3,6 +3,11 @@ type: info
 headertext: RETROUVE ICI TOUTES LES RESSOURCES DONT TU AS BESOIN POUR TOUT SAVOIR
   SUR LE CRÉDIT !
 linkblock:
+- name: Vidéo You Tube
+  image: ''
+  fichier: ''
+  description: ''
+  link: ''
 - name: Les vidéos de la campagne
   image: ''
   description: ''
