@@ -76,7 +76,7 @@ linkblock:
   fichier: ''
 - name: Brochure d'information - Médiation de Dettes
   image: ''
-  description: ''
+  description: Brochure à destination des personnes en situation de surendettement.
   link: ''
   fichier: "/uploads/Brochure médiation de dettes.pdf"
 - name: Le site de la Journée Sans Crédit
