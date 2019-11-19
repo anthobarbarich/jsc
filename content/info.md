@@ -19,7 +19,7 @@ linkblock:
   link: ''
   fichier: ''
 - name: Vidéo YouTube
-  image: ''
+  image: "/uploads/logotest-1.jpg"
   fichier: ''
   description: ''
   link: https://youtu.be/ridvG8lkVuA
