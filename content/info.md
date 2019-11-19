@@ -16,7 +16,7 @@ linkblock:
 - name: La page Facebook
   image: ''
   description: ''
-  link: ''
+  link: https://youtu.be/ridvG8lkVuA
   fichier: ''
 - name: Les recommandations 2019 de la Journée sans crédit
   image: ''
