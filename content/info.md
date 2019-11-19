@@ -70,9 +70,10 @@ linkblock:
 - name: Vidéo YouTube
   image: "/uploads/logotest-1.jpg"
   fichier: ''
-  description: Ces vidéos apportent **un regard décalé et critique** sur le manque
-    d'information et la crédulité des jeunes par rapport au crédit et sur l'importance
-    de pouvoir décoder les messages publicitaires.
+  description: Ces trois vidéos réalisées par des étudiants de l'IHECS pour la Journée
+    sans crédit apportent **un regard décalé et critique** sur le manque d'information
+    et la crédulité des jeunes par rapport au crédit et sur l'importance de pouvoir
+    décoder les messages publicitaires.
   link: https://youtu.be/ridvG8lkVuA
 - name: La page Facebook
   image: ''
