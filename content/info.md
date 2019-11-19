@@ -8,11 +8,11 @@ linkblock:
   description: ''
   link: ''
   fichier: ''
-- name: Les brochures d'information
+- name: Brochures d'information - Médiation de dettes
   image: ''
   description: ''
   link: ''
-  fichier: "/uploads/affiche voiture Fini.pdf"
+  fichier: "/uploads/Brochure médiation de dettes.pdf"
 - name: La page Facebook
   image: ''
   description: ''
