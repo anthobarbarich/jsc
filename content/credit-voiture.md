@@ -49,7 +49,7 @@ titre = "Quelques conseils pour obtenir le meilleur crédit voiture"
 [[blockinfo]]
 darktext = "**_Attention à la durée du crédit du crédit_**\n\nLa durée des prêts que l’on te propose pour une voiture varie en général de 2 à 5 ans.\n\nLa durée doit être réfléchie en fonction de ta situation personnelle ainsi que de **l’état général de la voiture** que tu désires acheter.\n\n> Par exemple, souscrire un crédit d’une durée de 5 ans pour acquérir une vieille voiture d’occasion peut présenter un risque financier important si la voiture doit être remplacée avant la fin de ton prêt.\n\n**_Il faut savoir aussi que plus le crédit est long plus il est cher !_**\n\n**_Exemple_**\n\nPour un crédit de 12.000 € avec un TAEG de 12 % :\n\nTu peux rembourser\n\n* 312 € pendant 48 mois\n* ou 263 € pendant 60 mois\n\n**Avec la mensualité de 263 €, tu seras lié pendant 12 mois de plus et tu rembourseras en fin de compte 793 € d’intérêts en plus.**\n\n> Attention aussi au **coût des assurances** ou des autres produits connexes qu’on va te proposer !!!"
 image = ""
-infotext = "Le [TAEG ](#TAEG)est donc un bon indicateur pour comparer le coût des crédits mais il y a d'autres éléments à prendre en compte"
+infotext = "Le [TAEG ](#)est donc un bon indicateur pour comparer le coût des crédits mais il y a d'autres éléments à prendre en compte"
 reference = "taeg"
 titre = "Comment comparer les prix ? "
 [[blockinfo]]
