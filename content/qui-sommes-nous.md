@@ -3,6 +3,16 @@ type: info
 title: 'Qui Sommes-Nous ? '
 headertext: Les partenaires de la plateforme Journée sans crédit
 linkblock:
+- name: La plateforme Journée sans crédit
+  image: ''
+  description: |-
+    Fondée en 2005, la plateforme de la Journée sans Crédit regroupe aujourd'hui **une trentaine d’organisations issues du Nord et du Sud du pays**.
+
+    Elles ont toutes en commun la lutte contre le surendettement et la pauvreté, notamment via l’éducation permanente.
+
+    **L’objectif de la plateforme Journée sans crédit est double** : il s’agit d’une part de **sensibiliser le public aux risques liés au crédit facile** et d’autre part de **formuler des recommandations destinées aux pouvoirs politiques afin d’améliorer la protection des consommateurs, et de lutter plus efficacement contre le surendettement**.
+  link: https://www.journeesanscredit.be/cestquoi.php
+  fichier: ''
 - name: La campagne de la JSC 2019 :"Ta voiture t’emmènera ... ton crédit te suivra"
   image: ''
   fichier: ''
@@ -62,15 +72,5 @@ linkblock:
     des personnes en situation de surendettement et l’autre donne une information
     de base sur les différentes offres de financement pour l’acquisition d’une voiture."
   link: ''
-- name: La plateforme Journée sans crédit
-  image: ''
-  description: |-
-    Fondée en 2005, la plateforme de la Journée sans Crédit regroupe aujourd'hui **une trentaine d’organisations issues du Nord et du Sud du pays**.
-
-    Elles ont toutes en commun la lutte contre le surendettement et la pauvreté, notamment via l’éducation permanente.
-
-    **L’objectif de la plateforme Journée sans crédit est double** : il s’agit d’une part de **sensibiliser le public aux risques liés au crédit facile** et d’autre part de **formuler des recommandations destinées aux pouvoirs politiques afin d’améliorer la protection des consommateurs, et de lutter plus efficacement contre le surendettement**.
-  link: https://www.journeesanscredit.be/cestquoi.php
-  fichier: ''
 
 ---
