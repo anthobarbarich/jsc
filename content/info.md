@@ -27,7 +27,7 @@ linkblock:
   image: ''
   description: ''
   link: ''
-  fichier: ''
+  fichier: "/uploads/Recommandation 2019.pdf"
 - name: Le site de la Journée Sans Crédit
   image: "/uploads/jsc.png"
   description: La journée sans crédit est une plateforme organisée par 31 associations
