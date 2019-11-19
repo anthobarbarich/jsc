@@ -14,7 +14,7 @@ linkblock:
   link: ''
   fichier: "/uploads/affiche voiture Fini.pdf"
 - name: La page Facebook
-  image: ''
+  image: "/uploads/logotest-1.jpg"
   description: ''
   link: https://youtu.be/ridvG8lkVuA
   fichier: ''
