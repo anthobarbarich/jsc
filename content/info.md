@@ -3,7 +3,7 @@ type: info
 headertext: RETROUVE ICI TOUTES LES RESSOURCES DONT TU AS BESOIN POUR TOUT SAVOIR
   SUR LE CRÉDIT !
 linkblock:
-- name: 'Brochure d''information - Ta voiture t’emmenera... Ton crédit te suivera '
+- name: 'Brochure d''information - Ta voiture t’emmènera... Ton crédit te suivera '
   image: "/uploads/kredcar-1-1.svg"
   fichier: "/uploads/Brochure voiture.pdf"
   description: ''
