@@ -13,7 +13,7 @@ titre = "Le regroupement de crédit"
 [[blockinfo]]
 darktext = "Même si tu es en possession de la voiture, elle appartient en fait toujours au vendeur. \n\nDès lors, si tu ne rembourses pas ton crédit, le vendeur pourrait la reprendre pour la revendre et récupérer son argent."
 image = ""
-infotext = "Si tu ne rembourses pas ton ou tes crédits, le prêteur a plusieurs moyens pour récupérer son argent.\n\n###### **La clause de réserve de propriété**\n\nSouvent, lorsque tu signes un crédit pour financer un bien comme une voiture, tu signes également ce qu’on appelle une clause de réserve de propriété.\n\nCette clause retarde le transfert de propriété de la voiture jusqu’au moment du paiement complet du prix.\n\nIl s’agit donc d’**une garantie supplémentaire pour le vendeur**."
+infotext = "Si tu ne rembourses pas ton ou tes crédits, le prêteur a plusieurs moyens pour récupérer son argent.\n\n**La clause de réserve de propriété**\n\nSouvent, lorsque tu signes un crédit pour financer un bien comme une voiture, tu signes également ce qu’on appelle une clause de réserve de propriété.\n\nCette clause retarde le transfert de propriété de la voiture jusqu’au moment du paiement complet du prix.\n\nIl s’agit donc d’**une garantie supplémentaire pour le vendeur**."
 reference = ""
 titre = "Quels sont les risques si tu ne parviens pas à rembourser ? La clause de réserve de propriété"
 [[blockinfo]]
