@@ -58,7 +58,8 @@ linkblock:
 - name: 'Brochure d''information - Ta voiture t’emmènera... Ton crédit te suivera '
   image: "/uploads/kredcar-1-1.svg"
   fichier: "/uploads/Brochure voiture.pdf"
-  description: ''
+  description: Cette brochure donne une information de base sur les différentes offres
+    de financement pour l’acquisition d’une voiture.
   link: ''
 - name: Trois vidéos sur YouTube
   image: "/uploads/logotest-1.jpg"
