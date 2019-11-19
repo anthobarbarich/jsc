@@ -14,7 +14,7 @@ linkblock:
   link: ''
   fichier: "/uploads/Brochure médiation de dettes.pdf"
 - name: La page Facebook
-  image: "/uploads/Facbook.png"
+  image: ''
   description: ''
   link: ''
   fichier: ''
