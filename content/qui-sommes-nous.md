@@ -3,6 +3,32 @@ type: info
 title: 'Qui Sommes-Nous ? '
 headertext: Les partenaires de la plateforme Journée sans crédit
 linkblock:
+- name: La campagne de la JSC 2019 :"Ta voiture t’emmènera ... ton crédit te suivra"
+  image: ''
+  fichier: ''
+  description: |-
+    **Cette année, à l’occasion du salon de l’auto qui s’ouvrira en janvier prochain, la plateforme journée sans crédit s’est penchée sur les offres de crédit présentes sur le marché de l’automobile et plus particulièrement sur le crédit ballon.**
+
+    Assez récent, le crédit ballon, c’est largement répandu ces dernières années. Il est proposé par l'ensemble du secteur financier et particulièrement par les concessionnaires.
+
+    C'est pourtant un crédit particulièrement coûteux et dangereux pour le consommateur.
+
+    Le public particulièrement visé par ce type de crédit, ce sont les jeunes et, de manière générale, les consommateurs les moins nantis qui sont attirés par les mensualités très faibles qui leur sont proposées sans être alertés correctement sur les risques à long terme.
+
+    **Le crédit ballon c'est quoi ?**
+
+    « Le ballon » correspond à la dernière mensualité à payer qui peut atteindre des sommets
+
+    Concrètement, vous signez un contrat d'une durée de 3 à 5 ans. Pendant toute la durée du crédit, vous payerez des mensualités faibles qui peuvent paraitre très alléchantes, mais attention aux très mauvaises surprises en fin de contrat. Il faudra, en effet, rembourser la dernière mensualité appelée "le ballon" qui peut aller en pratique jusqu’à 50% de la valeur du bien financé !
+
+    Même si lors de la signature du contrat on vous a dit que la reprise du véhicule pourra permettre de rembourser cette dernière mensualité, dans la réalité c’est un peu plus compliqué… La reprise du véhicule n’est pas sans conditions, certains contrats prévoient un kilométrage très faible et si vous le dépassez, vous serez facturé pour tous les kilomètres supplémentaires. De même, si vous n’avez pas « assez bien » entretenu votre véhicule, vous devrez payer les frais de réparations.
+
+    Ainsi, il n'est jamais certain que la somme que le concessionnaire vous proposera pour la reprise du véhicule vous permettra de rembourser le ballon ainsi que les frais.
+
+    Si vous n’arrivez pas à rembourser ces montants, soit vous gardez la voiture, mais vous devrez contracter un nouveau crédit pour rembourser le solde restant dû du crédit et les frais (à des conditions financières que vous ne maitrisez pas). Soit vous rendez la voiture, mais vous devrez vous tourner vers le même concessionnaire pour racheter une nouvelle voiture avec un nouveau crédit ballon à la clef (pour la voiture et le remboursement du solde qui resterait impayé après le calcul de la valeur de reprise).
+
+    **Le risque de ce type de crédit est clair : le consommateur doit quasi inévitablement réemprunter pour pouvoir solder le crédit et/ou racheter une nouvelle voiture avec un nouveau crédit ballon auprès du même concessionnaire et ainsi de suite…**
+  link: ''
 - name: Une campagne de presse de la JSC réalisée par un groupe d’étudiants de l’HIECS
     pour alerter les jeunes sur « la face cachée du crédit »
   image: ''
