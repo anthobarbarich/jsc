@@ -60,7 +60,7 @@ linkblock:
   fichier: "/uploads/Brochure voiture.pdf"
   description: ''
   link: ''
-- name: Vidéo YouTube
+- name: Trois vidéos sur YouTube
   image: "/uploads/logotest-1.jpg"
   fichier: ''
   description: Ces trois vidéos réalisées par des étudiants de l'IHECS pour la Journée
