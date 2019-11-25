@@ -25,13 +25,13 @@ titre = "Le découvert sur ton compte en banque"
 [[blockinfo]]
 darktext = ""
 image = ""
-infotext = "Le principe est le suivant : tu rembourses tous les mois un montant qui est fixe dans un délai déterminé.\n\nClique ici pour en savoir [plus](#pat)"
+infotext = "Le principe est le suivant : **tu rembourses tous les mois un montant qui est fixe dans un délai déterminé.**\n\nClique ici pour en savoir [plus](#pat)"
 reference = ""
 titre = "Le prêt à tempérament ou le « prêt personnel » "
 [[blockinfo]]
 darktext = ""
 image = ""
-infotext = "Ce type de crédit est très similaire au prêt à tempérament : tu rembourses tous les mois un montant qui est fixe dans un délai déterminé. Dans la vente à tempérament, le vendeur est en même temps le prêteur. \n\nLe vendeur t’octroiera un crédit pour financer ton achat (bien ou service déterminé)."
+infotext = "Ce type de crédit est très similaire au prêt à tempérament : **tu rembourses tous les mois un montant qui est fixe dans un délai déterminé**. \n\nDans la vente à tempérament, le vendeur est en même temps le prêteur."
 reference = ""
 titre = "La vente à tempérament"
 [[blockinfo]]
