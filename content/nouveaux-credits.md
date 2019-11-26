@@ -5,17 +5,17 @@ introtext = ""
 kredpic = "/uploads/download.svg"
 title = "Tu as déjà un ou plusieurs crédits ?"
 [[blockinfo]]
-darktext = ""
-image = ""
-infotext = "Sache qu’**il existe d’autres moyens** que le regroupement de crédits **pour s’en sortir**, comme la [médiation de dettes](#SMD) et le règlement collectif de dettes."
-reference = ""
-titre = "Les solutions pour s'en sortir"
-[[blockinfo]]
 darktext = "La face cachée\n\nMalgré les avantages que t’avancent les prêteurs, il y a **plusieurs inconvénients**.\n\nRegrouper tes crédits te coûtera souvent **plus cher**. En effet, la durée totale du nouveau crédit sera plus longue que celle des précédents. C’est cet allongement de la durée de paiement qui va permettre de diminuer les mensualités, mais qui augmente le coût total du crédit. Tu vas donc payer plus cher sur le long terme.\n\nTu dois également être attentif au **TAEG** qui te sera proposé. Certains crédits bénéficient de taux d’intérêt très avantageux (par exemple les crédits pour l’achat d’une voiture). **En cas de regroupement de crédits, tu risques de perdre le bénéfice de ce taux avantageux**.\n\n> Au final, le regroupement de crédit te fera rarement gagner de l’argent, que du contraire. Si tes difficultés sont trop importantes, le regroupement de crédit risque d’aggraver ta situation."
 image = "/uploads/lecteur-carte.jpg"
 infotext = "Si tu as plusieurs crédits, tu pourrais être tenté par un regroupement de crédits.\n\nLe regroupement de crédits te donne la possibilité de rembourser plusieurs dettes et/ou crédits en cours en concluant un nouveau crédit unique.\n\n_Que dit la Pub ?_\n\n_“Réunir vos crédits afin de ne payer qu'une seule mensualité ?”, “Allégez vos mensualités et rééquilibrer votre budget ?”, “Envie de diminuer vos charges ?” “Des difficultés à joindre les deux bouts ? Pensez au regroupement de crédit !”_\n\nLes arguments des prêteurs peuvent être très convaincants. Tu ne paies plus qu’une seule mensualité, ce qui peut être plus simple à gérer puisque tu n’as plus qu’un seul interlocuteur. Tu peux demander une mensualité allégée par rapport à ce que tu payais en cumulant tes autres crédits. L’impact sur le budget est donc visible immédiatement. Tu évites également de cumuler des retards de paiement."
 reference = ""
 titre = "Le regroupement de crédit"
+[[blockinfo]]
+darktext = ""
+image = ""
+infotext = "Sache qu’**il existe d’autres moyens** que le regroupement de crédits **pour s’en sortir**, comme la [médiation de dettes](#SMD) et le règlement collectif de dettes."
+reference = ""
+titre = "Les solutions pour s'en sortir"
 [[blockinfo]]
 darktext = "Même si tu es en possession de la voiture, elle appartient en fait toujours au vendeur. \n\nDès lors, si tu ne rembourses pas ton crédit, le vendeur pourrait la reprendre pour la revendre et récupérer son argent."
 image = "/uploads/rooftopper-looking-down.jpg"
