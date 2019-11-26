@@ -24,7 +24,7 @@ reference = "pat"
 titre = "LE PRET A TEMPERAMENT OU PRET PERSONNEL"
 [[blockinfo]]
 darktext = "La face cachée\n\n**_De nombreuses mauvaises surprises t'attendent en fin de contrat !!!_**\n\nOn te dit que tu pourras rembourser le « ballon » en restituant le véhicule. Cependant, il faudra qu’il soit en très bon état, sinon **les frais de réparations te seront réclamés** (y compris pour des rayures ou de simples bosses).\n\n**_Et ce n’est pas tout_** … **il peut y avoir** **encore d'autres frais supplémentaires à la fin du contrat.** Souvent les contrats ne prévoient qu’un kilométrage assez limité qu’il ne faut en principe pas dépasser pour que la voiture puisse être reprise. Si tu le dépasses, tout kilomètre supplémentaire te sera facturé.\n\nDans certains contrats, il n’est pas possible de restituer la voiture à la fin et il faudra toujours payer le ballon, qui atteint très souvent plusieurs milliers d’euros.\n\n**Seule porte de sortie si tu n’arrives pas à rembourser le ballon et les frais … un nouveau crédit ... et en avant la spirale du surendettement.**"
-image = "/uploads/echec-.jpg"
+image = "/uploads/party-balloons-in-front-of-faces.jpg"
 infotext = "Que dit la pub ?\n\n_« Le financement ballon est une formule de financement avantageuse et flexible, qui vous permet d’acquérir votre nouvelle voiture en toute simplicité. Après avoir effectué de petits remboursements mensuels, vous pourrez choisir de conserver votre voiture ou de la remplacer par un tout nouveau modèle »._\n\nLe crédit ballon peut se présenter sous différentes formules, mais le principe reste le même : **tu payes une faible mensualité. Par contre, tu devras rembourser une dernière mensualité bien plus élevée appelée « le ballon »**."
 reference = ""
 titre = "LE CRÉDIT BALLON"
