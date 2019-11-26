@@ -32,7 +32,7 @@ titre = "Demande l’aide d’un service de médiation de dettes"
 darktext = ""
 image = ""
 infotext = "**Pour trouver un service de médiation de dettes :**\n\n**En Wallonie** : [cliquez ici](http://actionsociale.wallonie.be/lutte-surendettement/services-mediation-dettes) ou appelez le 1718 (numéro gratuit)\n\n**À Bruxelles** : [cliquez ici](http://www.mediationdedettes.be/Ou-trouver-un-service-de-mediation-de-dettes) ou appelez le Centre d'Appui-Médiation de Dettes au 02/217.88.05\n\nEn Flandre, en consultant le site [http://www.eerstehulpbijschulden.be/contact.](http://www.eerstehulpbijschulden.be/contact. \"http://www.eerstehulpbijschulden.be/contact.\")"
-reference = "#smd"
+reference = "#smdou"
 titre = "Où trouver un service de médiation de dettes proche de chez toi ?"
 
 +++
