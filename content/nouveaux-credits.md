@@ -12,7 +12,7 @@ reference = ""
 titre = "Le regroupement de crédit"
 [[blockinfo]]
 darktext = ""
-image = ""
+image = "/uploads/cross-table-hand-shake.jpg"
 infotext = "Sache qu’**il existe d’autres moyens** que le regroupement de crédits **pour s’en sortir**, comme la [médiation de dettes](#smd) et le règlement collectif de dettes."
 reference = ""
 titre = "Les solutions pour s'en sortir"
