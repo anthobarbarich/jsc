@@ -54,7 +54,7 @@ reference = "taeg"
 titre = "Comment comparer les prix ? "
 [[blockinfo]]
 darktext = "La face cachée\n\n**Gratuit ? Pas tant que ça … Comment un** [TAEG](#) **_de 0 % devient plus cher qu’un TAEG de 2 % ?_**\n\nTon concessionnaire pourrait te proposer un TAEG de 0%, mais cette option pourrait être, malgré tout, moins intéressante qu’un [TAEG](#) plus élevé que tu pourrais obtenir autre part.\n\n**_Pourquoi ?_**\n\nEn fait, le concessionnaire va te proposer un taux à O %, mais il risque de reprendra ta voiture actuelle sans t’offrir des réductions, ou il ne te proposera pas d’options supplémentaires lors de l’achat de ta nouvelle voiture.\n\nEn revanche, si tu vas chez le concessionnaire uniquement pour l’achat, et que tu signes ton crédit autre part (avec un [TAEG](#) plus élevé), le concessionnaire t’offrira souvent davantage de remises sur le prix de ta nouvelle voiture et tu devras donc emprunter moins.\n\nAu final, tu pourras alors y gagner."
-image = "/uploads/sale-tag.jpg"
+image = "/uploads/festive-gift-box.jpg"
 infotext = "\nLe concessionnaire te permet d’acheter ta voiture avec un crédit à 0%. Tu ne payes, par conséquent, que le prix du véhicule. \n\nMais, s’il te délivre ce « cadeau », il compense, bien entendu, cette perte financière autre part."
 reference = ""
 titre = "LE CREDIT A 0 % ?  "
