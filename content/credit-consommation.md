@@ -6,7 +6,7 @@ kredpic = "/uploads/newcredits.svg"
 title = "Crédit à la Consommation"
 [[blockinfo]]
 darktext = ""
-image = ""
+image = "/uploads/savings.jpg"
 infotext = "Avant de te lancer, vérifie si ton budget te permet de rembourser un crédit en plus de tes dépenses habituelles .\n\nMême si le mot **budget** peut parfois faire peur, il y a des [conseils simples](https://www.thebudgetmom.com/) à suivre pour toujours avoir la main sur tes dépenses .\n\nUne vie agréable en respectant un certain budget, c’est possible.\n\nTu trouveras des exemples de grilles budgétaires[ ici](http://socialsante.wallonie.be/surendettement/citoyen/calcul_budget_public/) et [ici](http://www.checkyourbudget.be/spip.php?rubrique27&lang=fr)."
 reference = ""
 titre = "Avant de te lancer"
