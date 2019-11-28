@@ -36,7 +36,7 @@ reference = ""
 titre = "LE PRIVATE LEASE (leasing privé ou encore location longue durée)"
 [[blockinfo]]
 darktext = "La face cachée ?\n\nCe crédit est **beaucoup plus cher** qu’un crédit à tempérament et c’est un système **dangereux**, car **il t’incite à ne payer qu’un minimum par mois et va allonger sans fin le remboursement de ton crédit.**\n\n**_Pourquoi ?_**\n\nParce que **le TAEG est souvent proche du** [**maximum légal** ](https://economie.fgov.be/fr/themes/services-financiers/credit-la-consommation/cout-du-credit/tarifs-maximaux)qui se situe **entre 9,5 et 14,5 %**  (au lieu des taux intéressants que tu peux trouver pour un prêt classique)."
-image = ""
+image = "/uploads/Carte de crédit.jpg"
 infotext = "Que dit la pub ?\n\n_« Utilisez votre réserve d’argent selon vos besoins »._\n\nC’est une somme d’argent qui est mise à ta disposition et que tu peux utiliser au fur et à mesure de tes besoins. Dès que tu l’utilises, tu rembourses un montant minimum tous les mois.\n\nCe type de crédit n’est pas proposé chez les concessionnaires, mais **il peut être tentant d’utiliser une carte de crédit pour l’achat d’une voiture d’occasion dont le prix n’est pas trop élevé.**"
 reference = ""
 titre = "L’OUVERTURE DE CREDIT"
