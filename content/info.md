@@ -69,11 +69,6 @@ linkblock:
     et la crédulité des jeunes par rapport au crédit et sur l'importance de pouvoir
     décoder les messages publicitaires.
   link: https://youtu.be/ridvG8lkVuA
-- name: La page Facebook
-  image: ''
-  description: ''
-  link: ''
-  fichier: ''
 - name: Brochure d'information - Médiation de Dettes
   image: ''
   description: Brochure à destination des personnes en situation de surendettement.
