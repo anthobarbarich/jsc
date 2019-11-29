@@ -30,7 +30,7 @@ ol, ul {
 	
 }
 
-ol, ul li {
+ol li, ul li {
 	font-weight:300;
 	margin-top:10px;
 	font-size: 19px;
