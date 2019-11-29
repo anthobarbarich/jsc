@@ -25,7 +25,7 @@ titre = "Le découvert sur ton compte en banque"
 [[blockinfo]]
 darktext = ""
 image = ""
-infotext = "Le principe est le suivant : **tu rembourses tous les mois un montant qui est fixe dans un délai déterminé.**\n\nClique ici pour en savoir [plus](#pat)"
+infotext = "Le principe est le suivant : **tu rembourses tous les mois un montant qui est fixe dans un délai déterminé.**\n\nClique ici pour en savoir [plus](https://lafacecacheeducredit.netlify.com/credit-voiture/#pat)"
 reference = ""
 titre = "Le prêt à tempérament ou le « prêt personnel » "
 [[blockinfo]]

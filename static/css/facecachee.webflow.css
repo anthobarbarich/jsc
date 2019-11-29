@@ -30,7 +30,7 @@ ol, ul {
 	
 }
 
-ol, ul li {
+ol li, ul li {
 	font-weight:300;
 	margin-top:10px;
 	font-size: 19px;
@@ -483,7 +483,7 @@ font-size: 1em;}
 }
 
 ._01 {
-  padding-top: 145px;
+  padding-top: 72px;
   padding-bottom: 40px;
 }
 
@@ -514,7 +514,7 @@ font-size: 1em;}
 }
 
 .colblocks {
-  margin-bottom: 107px;
+  margin-bottom: 60px;
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
@@ -1136,7 +1136,9 @@ cursor: pointer;
 
 @media only screen and (min-width : 0px) and (max-width : 640px) {
 /*tooltip*/
-
+.dark{
+  margin-bottom:20px;
+}
 a.tip:hover::before {
   border: #c0c0c0 1px dotted;
   padding: 5px 20px 5px 5px;
@@ -1274,7 +1276,7 @@ padding: 0% 0% 4% 0%;
     font-size: 11px;
   }
   ._01 {
-    padding-top: 92px;
+    padding-top: 72px;
     padding-right: 10px;
     padding-left: 13px;
   }
@@ -1430,6 +1432,7 @@ padding: 0% 0% 4% 0%;
     ._01.ressource {
       padding-top: 0px;
   }
+  
   .column-5.w-col.w-col-6 {
     padding-left: 0px;
     margin: 0px 15px 0px -20px;
